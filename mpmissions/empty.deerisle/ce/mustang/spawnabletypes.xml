@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>		
+	<type name="Candy_MustFrank">
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Doors_Driver" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Doors_CoDriver" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Doors_Trunk" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Doors_Trunk0" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Doors_Hood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>	
+        <attachments chance="1.00">
+			<item name="Sparkplug" chance="1.00" />
+		</attachments>				
+	</type>
+    <type name="Candy_MustFrank_White">
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Doors_Driver_White" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Doors_CoDriver_White" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Doors_Trunk_White" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Doors_Trunk0_White" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Doors_Hood_White" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="Sparkplug" chance="1.00" />
+		</attachments>				
+	</type>	
+    <type name="Candy_MustFrank_NoGun">
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Doors_Driver" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Doors_CoDriver" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Doors_Trunk" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Doors_Trunk0" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Doors_Hood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="Sparkplug" chance="1.00" />
+		</attachments>				
+	</type>	
+    <type name="Candy_MustFrank_NoGun_White">
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Doors_Driver_White" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Doors_CoDriver_White" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Doors_Trunk_White" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Doors_Trunk0_White" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Candy_MustFrank_Doors_Hood_White" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+        <attachments chance="1.00">
+			<item name="Sparkplug" chance="1.00" />
+		</attachments>				
+	</type>		
+	
+	
+</spawnabletypes>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+    <type name="VTR_accupoint_Trijicon">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="hunting"/>
+        <usage name="police"/>
+        <usage name="military"/>
+        <value name="tier3"/>
+        <value name="tier4"/>
+    </type>
+    <type name="VTR_Barska">
+        <nominal>4</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="hunting"/>
+        <usage name="police"/>
+        <usage name="military"/>
+        <value name="tier3"/>
+        <value name="tier4"/>
+    </type>
+    <type name="VTR_Bravo4">
+        <nominal>4</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="hunting"/>
+        <usage name="police"/>
+        <usage name="military"/>
+        <value name="tier3"/>
+        <value name="tier4"/>
+    </type>
+    <type name="VTR_fx2_Scope">
+        <nominal>4</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="hunting"/>
+        <usage name="police"/>
+        <usage name="military"/>
+        <value name="tier3"/>
+        <value name="tier4"/>
+    </type>
+    <type name="VTR_NcstarAdo">
+        <nominal>4</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="hunting"/>
+        <usage name="police"/>
+        <usage name="military"/>
+        <value name="tier3"/>
+        <value name="tier4"/>
+    </type>
+    <type name="VTR_AtacrNightForce">
+        <nominal>4</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="hunting"/>
+        <usage name="police"/>
+        <usage name="military"/>
+        <value name="tier3"/>
+        <value name="tier4"/>
+    </type>
+    <type name="VTR_okp7_rail">
+        <nominal>4</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="hunting"/>
+        <usage name="police"/>
+        <usage name="military"/>
+        <value name="tier3"/>
+        <value name="tier4"/>
+    </type>
+    <type name="VTR_okp7_swallow">
+        <nominal>4</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="hunting"/>
+        <usage name="police"/>
+        <usage name="military"/>
+        <value name="tier3"/>
+        <value name="tier4"/>
+    </type>
+    <type name="VTR_PenTax">
+        <nominal>4</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="hunting"/>
+        <usage name="police"/>
+        <usage name="military"/>
+        <value name="tier3"/>
+        <value name="tier4"/>
+    </type>
+    <type name="VTR_SigSauerTango">
+        <nominal>4</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="hunting"/>
+        <usage name="police"/>
+        <usage name="military"/>
+        <value name="tier3"/>
+        <value name="tier4"/>
+    </type>
+    <type name="VTR_Vortex">
+        <nominal>4</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="hunting"/>
+        <usage name="police"/>
+        <usage name="military"/>
+        <value name="tier3"/>
+        <value name="tier4"/>
+    </type>
+    <type name="VTR_Razor_Vortex">
+        <nominal>4</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="hunting"/>
+        <usage name="police"/>
+        <usage name="military"/>
+        <value name="tier3"/>
+        <value name="tier4"/>
+    </type>
+    <type name="VTR_Vudu">
+        <nominal>4</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="weapons"/>
+        <tag name="floor"/>
+        <usage name="hunting"/>
+        <usage name="police"/>
+        <usage name="military"/>
+        <value name="tier3"/>
+        <value name="tier4"/>
+    </type>
+
+</types>

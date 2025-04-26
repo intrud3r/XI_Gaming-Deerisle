@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+	<type name="PNC_W_AR15_Long_hive">
+		<attachments chance="1.00">
+			<item name="PNC_MoreMag_FAL_50Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UniversalLight" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_T3NRDSOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_AR15_Long_camo">
+		<attachments chance="1.00">
+			<item name="PNC_MoreMag_FAL_50Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UniversalLight" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_T3NRDSOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_AUGA3">
+		<attachments chance="1.00">
+			<item name="ReflexOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_MoreMag_M4Drum_100Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_AR15_Long_kryp">
+		<attachments chance="1.00">
+			<item name="PNC_MoreMag_FAL_50Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UniversalLight" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_T3NRDSOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_AR15_Long">
+		<attachments chance="1.00">
+			<item name="PNC_MoreMag_FAL_50Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UniversalLight" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_T3NRDSOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_MK14">
+		<attachments chance="1.00">
+			<item name="PNC_MoreMag_FAL_50Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_TAC21_Mag">
+	</type>
+	<type name="PNC_VSSK_vychlop">
+		<attachments chance="1.00">
+			<item name="PNC_VSSK_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_RPK16_Tan">
+		<attachments chance="1.00">
+			<item name="PNC_RPK16_Drum" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_TAC21">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_TAC21_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_RPK16_green">
+		<attachments chance="1.00">
+			<item name="PNC_RPK16_Drum" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_M60">
+		<attachments chance="1.00">
+			<item name="PNC_M60_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_ScarH_pixel">
+		<attachments chance="1.00">
+			<item name="PNC_MoreMag_FAL_50Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_Origin_12ga">
+		<attachments chance="1.00">
+			<item name="PNC_ORIGIN_Drum_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_Scar_pixel">
+		<attachments chance="1.00">
+			<item name="PNC_MoreMag_M4Drum_100Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_TAC21_Mag">
+	</type>
+	<type name="PNC_W_G36_camo">
+		<attachments chance="1.00">
+			<item name="PNC_MoreMag_M4Drum_100Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_SCARH">
+		<attachments chance="1.00">
+			<item name="PNC_MoreMag_FAL_50Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_M200CheyTac">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_M200_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_Scar_kryp">
+		<attachments chance="1.00">
+			<item name="PNC_MoreMag_M4Drum_100Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_RPK16_Black">
+		<attachments chance="1.00">
+			<item name="PNC_RPK16_Drum" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_G36">
+		<attachments chance="1.00">
+			<item name="PNC_MoreMag_M4Drum_100Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_SuperSniper">
+		<attachments chance="1.00">
+			<item name="PNC_Mag_SuperSniper_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_OEBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UniversalLight" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_AEK971">
+		<attachments chance="1.00">
+			<item name="PNC_RPK16_Drum" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_ScarH_camo">
+		<attachments chance="1.00">
+			<item name="PNC_MoreMag_FAL_50Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_Scar_hive">
+		<attachments chance="1.00">
+			<item name="PNC_MoreMag_M4Drum_100Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_RemingtonACR_Tan">
+		<attachments chance="1.00">
+			<item name="PNC_Mag_HoneyBadger_Coupled_60Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_ScarH_hive">
+		<attachments chance="1.00">
+			<item name="PNC_MoreMag_FAL_50Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_Scar_camo">
+		<attachments chance="1.00">
+			<item name="PNC_MoreMag_M4Drum_100Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_RemingtonACR_Black">
+		<attachments chance="1.00">
+			<item name="PNC_Mag_HoneyBadger_Coupled_60Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_AX50">
+		<attachments chance="1.00">
+			<item name="PNC_Mag_AX50_7rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_M110">
+		<attachments chance="1.00">
+			<item name="PNC_MoreMag_FAL_50Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_G36_kryp">
+		<attachments chance="1.00">
+			<item name="PNC_MoreMag_M4Drum_100Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_G36_hive">
+		<attachments chance="1.00">
+			<item name="PNC_MoreMag_M4Drum_100Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_VR80">
+		<attachments chance="1.00">
+			<item name="PNC_Mag_VR80_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_T3NRDSOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_AN94Abakan">
+		<attachments chance="1.00">
+			<item name="PNC_RPK16_Drum" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_ScarH_kryp">
+		<attachments chance="1.00">
+			<item name="PNC_MoreMag_FAL_50Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_RemingtonR5">
+		<attachments chance="1.00">
+			<item name="PNC_MoreMag_M4Drum_100Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_OEBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UniversalLight" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_T3NRDSOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_KIVAARI_kryp">
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_HoneyBadger">
+		<attachments chance="1.00">
+			<item name="PNC_Mag_HoneyBadger_Coupled_60Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_OEBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UniversalLight" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_T3NRDSOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_KIVAARI">
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_CheyTacM300">
+		<attachments chance="1.00">
+			<item name="PNC_Mag_CheyTacM300_7rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_RemingtonR5_tan">
+		<attachments chance="1.00">
+			<item name="PNC_MoreMag_M4Drum_100Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_OEBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UniversalLight" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_T3NRDSOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_SCAR">
+		<attachments chance="1.00">
+			<item name="PNC_MoreMag_M4Drum_100Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_RemingtonMSR">
+		<attachments chance="1.00">
+			<item name="PNC_Mag_RemingtonMSR_5rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_ORSIST5000">
+		<attachments chance="1.00">
+			<item name="PNC_Mag_ORSIST5000_5rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_PKP">
+		<attachments chance="1.00">
+			<item name="PNC_Mag_PKP_200Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_M14">
+		<attachments chance="1.00">
+			<item name="PNC_MoreMag_FAL_50Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_HoneyBadger_kry">
+		<attachments chance="1.00">
+			<item name="PNC_Mag_HoneyBadger_Coupled_60Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_OEBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UniversalLight" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_T3NRDSOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_KIVAARI_hive">
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_HoneyBadger_camo2">
+		<attachments chance="1.00">
+			<item name="PNC_Mag_HoneyBadger_Coupled_60Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_OEBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UniversalLight" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_T3NRDSOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_HoneyBadger_kitty">
+		<attachments chance="1.00">
+			<item name="PNC_Mag_HoneyBadger_Coupled_60Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_OEBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UniversalLight" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_T3NRDSOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_HoneyBadger_sweetish">
+		<attachments chance="1.00">
+			<item name="PNC_Mag_HoneyBadger_Coupled_60Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_OEBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UniversalLight" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_T3NRDSOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_KIVAARI_camo">
+		<attachments chance="1.00">
+			<item name="PNC_Mag_KIVAARI_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_HoneyBadger_camo">
+		<attachments chance="1.00">
+			<item name="PNC_Mag_HoneyBadger_Coupled_60Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_OEBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UniversalLight" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_T3NRDSOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_Aurora">
+		<attachments chance="1.00">
+			<item name="PNC_Mag_Aurora_5Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_AR15Skeleton">
+		<attachments chance="1.00">
+			<item name="PNC_MoreMag_M4Drum_100Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_OEBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UniversalLight" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_T3NRDSOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_AWM_Snow">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_AWM_5rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_BarretM82A1">
+		<attachments chance="1.00">
+			<item name="PNC_Mag_BarretM82A1_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_Famas">
+		<attachments chance="1.00">
+			<item name="ReflexOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UniversalLight" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_MoreMag_M4Drum_100Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_FAL">
+		<attachments chance="1.00">
+			<item name="Fal_OeBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_T3NRDSOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_HoneyBadger_black">
+		<attachments chance="1.00">
+			<item name="PNC_Mag_HoneyBadger_Coupled_60Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_OEBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UniversalLight" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_T3NRDSOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_Beowulf50_hive">
+		<attachments chance="1.00">
+			<item name="PNC_Mag_Beowulf50_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_OEBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_T3NRDSOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_BarretM82A1_snow">
+		<attachments chance="1.00">
+			<item name="PNC_Mag_BarretM82A1_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_AWM_Sand">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_AWM_5rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_AWM">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_AWM_5rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_AX50_2">
+		<attachments chance="1.00">
+			<item name="PNC_Mag_AX50_2_5rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_Beowulf50">
+		<attachments chance="1.00">
+			<item name="PNC_Mag_Beowulf50_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_OEBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_T3NRDSOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_Beowulf50_kryp">
+		<attachments chance="1.00">
+			<item name="PNC_Mag_Beowulf50_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_OEBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_T3NRDSOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_Mag_AWM_5rnd">
+	</type>
+	<type name="PNC_Mag_AWM_5rnd">
+	</type>
+	<type name="PNC_Mag_AWM_5rnd">
+	</type>
+	<type name="PNC_W_AX50_2_hive">
+		<attachments chance="1.00">
+			<item name="PNC_Mag_AX50_2_5rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_AX50_2_camo">
+		<attachments chance="1.00">
+			<item name="PNC_Mag_AX50_2_5rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_Beowulf50_camo">
+		<attachments chance="1.00">
+			<item name="PNC_Mag_Beowulf50_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_OEBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_T3NRDSOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_ASh127">
+		<attachments chance="1.00">
+			<item name="PNC_Mag_ASh127_20Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_DVL10">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PNC_Mag_DVL_10rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_ASh127_camo">
+		<attachments chance="1.00">
+			<item name="PNC_Mag_ASh127_20Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_BarretM82A1_black">
+		<attachments chance="1.00">
+			<item name="PNC_Mag_BarretM82A1_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PNC_W_BarretM82A1_desert">
+		<attachments chance="1.00">
+			<item name="PNC_Mag_BarretM82A1_10Rnd" chance="1.00" />
+		</attachments>
+	</type>
+</spawnabletypes>

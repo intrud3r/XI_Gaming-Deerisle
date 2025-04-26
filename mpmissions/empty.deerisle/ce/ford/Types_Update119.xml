@@ -1,0 +1,1055 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<type name="FordRaptor_Scorpio">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+	</type>
+	<type name="FordRaptor_Scorpio_doors_driver">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_doors_cargo1">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_doors_cargo2">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+	</type>
+	<type name="FordRaptor_Scorpio_doors_trunk">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_doors_hood">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_UA">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+	</type>
+	<type name="FordRaptor_Scorpio_UA_driver">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_UA_codriver">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_UA_cargo1">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_UA_cargo2">
+		<nominal>0</nominal>
+		<lifetime>108800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_UA_hood">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_UA_trunk">
+		<nominal>0</nominal>
+		<lifetime>108800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_UA_rust">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+	</type>
+	<type name="FordRaptor_Scorpio_UA_rust_driver">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_UA_rust_codriver">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_UA_rust_cargo1">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_UA_rust_cargo2">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_UA_rust_trunk">
+		<nominal>0</nominal>
+		<lifetime>108800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_UA_rust_hood">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_UA2_rust">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+	</type>
+	<type name="FordRaptor_Scorpio_UA2_rust_driver">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_UA2_rust_codriver">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_UA2_rust_cargo1">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_UA2_rust_cargo2">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_UA2_rust_trunk">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_UA2_rust_hood">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_UA2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+	</type>
+	<type name="FordRaptor_Scorpio_UA2_driver">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_UA2_codriver">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_UA2rust_cargo1">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_UA2rust_cargo2">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_UA2rust_trunk">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_UA2rust_hood">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_Green">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+	</type>
+	<type name="FordRaptor_Scorpio_Green_driver">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_Green_codriver">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_Green_cargo1">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_Green_cargo2">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_Green_trunk">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_Green_hood">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_Black">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+	</type>
+	<type name="FordRaptor_Scorpio_Black_driver">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_Black_codriver">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_Black_cargo1">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_Black_cargo2">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+	</type>
+	<type name="FordRaptor_Scorpio_Black_trunk">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_Black_hood">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_White">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+	</type>
+	<type name="FordRaptor_Scorpio_White_driver">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_White_codriver">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_White_cargo1">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_White_cargo2">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_White_trunk">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_White_hood">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_Wheel">
+		<nominal>0</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+		<category name="vehiclesparts"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="FordRaptor_Scorpio_AKPP">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+	</type>
+	<type name="FordRaptor_Scorpio_UA_AKPP">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+	</type>
+	<type name="FordRaptor_Scorpio_UA_rust_AKPP">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+	</type>
+	<type name="FordRaptor_Scorpio_UA2_AKPP">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+	</type>
+	<type name="FordRaptor_Scorpio_UA2_rust_AKPP">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+	</type>
+	<type name="FordRaptor_Scorpio_Green_AKPP">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+	</type>
+	<type name="FordRaptor_Scorpio_Black_AKPP">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+	</type>
+	<type name="FordRaptor_Scorpio_White_AKPP">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0"
+		       count_in_hoarder="0"
+		       count_in_map="1"
+		       count_in_player="0"
+		       crafted="0"
+		       deloot="0"/>
+	</type>
+</types>

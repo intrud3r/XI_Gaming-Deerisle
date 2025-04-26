@@ -1,0 +1,86 @@
+************************** 2025-04-12T20:15:38+00:00 **************************
+2025-04-12T20:15:38+00:00 | [INFO	] GameLabs v1.953 start for server e412f446-dd29-4714-8fe1-80211af42c58
+2025-04-12T20:16:11+00:00 | [INFO	] Server up (GameLabs v1.953; terrain=deerisle;)
+2025-04-12T20:16:11+00:00 | [INFO	] RPC interface initiated and handler registered
+2025-04-12T20:16:55+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-04-12T20:16:55+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-04-12T20:16:55+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-04-12T20:26:02+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T20:27:22+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T20:27:52+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T20:29:22+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T20:30:12+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T20:42:33+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<76dc0010>> fired for already disconnected player [steam64=76561198064749072]
+2025-04-12T21:16:12+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2025-04-12T21:16:12+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2025-04-12T21:16:12+00:00 | [WARN	] RegisterAsync re-authorized
+2025-04-12T21:23:21+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-04-12T21:24:07+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-04-12T21:24:53+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<89095030>> fired for already disconnected player [steam64=76561199444490907]
+2025-04-12T21:42:25+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<d7d2aff0>> fired for already disconnected player [steam64=76561198066485810]
+2025-04-12T21:57:44+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-04-12T21:57:53+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-04-12T21:58:16+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<a94e4020>> fired for already disconnected player [steam64=76561199085648014]
+2025-04-12T21:58:54+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<2ba93010>> fired for already disconnected player [steam64=76561199357584967]
+2025-04-12T22:03:57+00:00 | [WARN	] [Teleport] SurvivorBase<af3d8430> position=0x00000000061b8490 {<7553.67,81.7899,4506.22>}
+2025-04-12T22:13:44+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<371ef010>> fired for already disconnected player [steam64=76561198001730202]
+2025-04-12T22:16:17+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2025-04-12T22:16:17+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2025-04-12T22:16:18+00:00 | [WARN	] RegisterAsync re-authorized
+2025-04-12T23:14:17+00:00 | [WARN	] [Teleport] SurvivorBase<af3d8430> position=0x00000000061b8490 {<1905.99,25.3251,8549.6>}
+2025-04-12T23:15:17+00:00 | [WARN	] [Teleport] SurvivorBase<af3d8430> position=0x00000000061b8490 {<2010.55,9.34013,8769.65>}
+2025-04-12T23:16:19+00:00 | [ERROR	] PlayerDisconnect errorCode(5)
+2025-04-12T23:16:22+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2025-04-12T23:16:22+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2025-04-12T23:16:23+00:00 | [WARN	] RegisterAsync re-authorized
+2025-04-12T23:16:37+00:00 | [WARN	] [Teleport] SurvivorBase<af3d8430> position=0x00000000061b8490 {<4458.78,14.0618,5019.72>}
+2025-04-12T23:17:57+00:00 | [WARN	] [Teleport] SurvivorBase<af3d8430> position=0x00000000061b8490 {<9142.88,49.6958,15588.2>}
+2025-04-12T23:18:12+00:00 | [WARN	] [Teleport] SurvivorBase<af3d8430> position=0x00000000061b8490 {<8909.78,49.343,15640.8>}
+2025-04-12T23:18:27+00:00 | [WARN	] [Teleport] SurvivorBase<af3d8430> position=0x00000000061b8490 {<8757.76,49.2782,15609.8>}
+2025-04-12T23:19:12+00:00 | [WARN	] [Teleport] SurvivorBase<af3d8430> position=0x00000000061b8490 {<6350.38,15.29,6357.87>}
+2025-04-12T23:19:53+00:00 | [WARN	] [Teleport] SurvivorBase<af3d8430> position=0x00000000061b8490 {<4947.35,38.2836,7789.44>}
+2025-04-12T23:20:03+00:00 | [WARN	] [Teleport] SurvivorBase<af3d8430> position=0x00000000061b8490 {<5091.39,29.8679,7757.46>}
+2025-04-12T23:21:07+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:21:12+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:21:17+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:21:22+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:21:27+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:21:32+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:21:37+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:21:42+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:21:47+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:21:52+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:21:57+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:22:02+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:22:07+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:22:12+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:22:17+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:22:22+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:22:27+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:22:32+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:22:37+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:22:42+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:22:47+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:22:52+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:22:57+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:23:02+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:23:07+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:23:12+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:23:17+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:23:22+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:23:27+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:23:32+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:23:37+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:23:42+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:23:47+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:23:52+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:23:57+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:24:02+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:24:07+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:24:12+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:24:17+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:24:22+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:24:27+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2025-04-12T23:24:45+00:00 | [WARN	] [Teleport] SurvivorBase<af3d8430> position=0x00000000061b8490 {<6730.36,12.9119,6259.78>}
+2025-04-13T00:15:01+00:00 | [INFO	] (Reporter) Disabled
+2025-04-13T00:15:01+00:00 | [INFO	] (Core) Attempting graceful exit

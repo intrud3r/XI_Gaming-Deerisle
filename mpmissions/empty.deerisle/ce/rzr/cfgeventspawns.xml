@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<eventposdef>    
+	<event name="VehicleRTrzr">
+		<pos x="7143.081" z="594.958" a="0"/>
+        <pos x="1477.206" z="1600.958" a="0"/>	
+		<pos x="698.731" z="3776.292" a="0"/>	
+		<pos x="9096.726" z="4465.625" a="0"/>
+        <pos x="9755.637" z="10004.292" a="0"/>
+        <pos x="6762.515" z="11279.625" a="0"/>
+        <pos x="8112.047" z="8314.292" a="0"/>
+              
+	</event>
+   
+    <event name="VehicleRTrzr" />
+    
+</eventposdef>

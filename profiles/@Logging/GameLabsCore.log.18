@@ -1,0 +1,29 @@
+************************** 2025-04-13T00:15:40+00:00 **************************
+2025-04-13T00:15:40+00:00 | [INFO	] GameLabs v1.953 start for server e412f446-dd29-4714-8fe1-80211af42c58
+2025-04-13T00:16:02+00:00 | [INFO	] Server up (GameLabs v1.953; terrain=deerisle;)
+2025-04-13T00:16:02+00:00 | [INFO	] RPC interface initiated and handler registered
+2025-04-13T01:16:07+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2025-04-13T01:16:07+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2025-04-13T01:16:07+00:00 | [WARN	] RegisterAsync re-authorized
+2025-04-13T02:16:12+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2025-04-13T02:16:12+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2025-04-13T02:16:12+00:00 | [WARN	] RegisterAsync re-authorized
+2025-04-13T03:16:17+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2025-04-13T03:16:17+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2025-04-13T03:16:17+00:00 | [WARN	] RegisterAsync re-authorized
+2025-04-13T04:16:22+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2025-04-13T04:16:22+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2025-04-13T04:16:23+00:00 | [WARN	] RegisterAsync re-authorized
+2025-04-13T05:16:27+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2025-04-13T05:16:27+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2025-04-13T05:16:28+00:00 | [WARN	] RegisterAsync re-authorized
+2025-04-13T06:16:33+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2025-04-13T06:16:33+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2025-04-13T06:16:33+00:00 | [WARN	] RegisterAsync re-authorized
+2025-04-13T06:21:42+00:00 | [WARN	] [Teleport] SurvivorBase<1e162010> position=0x0000000096d1c680 {<6886.9,37.2566,6060.49>}
+2025-04-13T06:21:57+00:00 | [WARN	] [Teleport] SurvivorBase<1e162010> position=0x0000000096d1c680 {<6714.58,15.25,6238.85>}
+2025-04-13T07:16:37+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2025-04-13T07:16:37+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2025-04-13T07:16:38+00:00 | [WARN	] RegisterAsync re-authorized
+2025-04-13T07:27:55+00:00 | [INFO	] (Reporter) Disabled
+2025-04-13T07:27:55+00:00 | [INFO	] (Core) Attempting graceful exit

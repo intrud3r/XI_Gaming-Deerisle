@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events>    
+    <event name="VehicleRTrzr">
+        <nominal>8</nominal>
+        <min>5</min>
+        <max>10</max>
+        <lifetime>28800</lifetime>
+        <restock>300</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="3" min="1" type="RTrzr"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="RTrzr_Winter"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="RTrzr_Razzle"/>
+			<child lootmax="0" lootmin="0" max="1" min="0" type="RTrzr_Black"/>
+			<child lootmax="0" lootmin="0" max="1" min="1" type="RTrzr_Forest"/>
+			<child lootmax="0" lootmin="0" max="8" min="4" type="RTrzr_Woodland"/>
+			<child lootmax="0" lootmin="0" max="1" min="0" type="RTrzr_Eclipse"/>
+			<child lootmax="0" lootmin="0" max="1" min="0" type="RTrzr_Matte_Black"/>
+			<child lootmax="0" lootmin="0" max="3" min="1" type="RTrzr_OD"/>
+			<child lootmax="0" lootmin="0" max="1" min="0" type="RTrzr_Desert"/>
+		</children>
+    </event>    
+</events>

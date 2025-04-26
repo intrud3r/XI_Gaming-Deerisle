@@ -1,0 +1,134 @@
+{
+    "m_Version": 15,
+    "MarketSystemEnabled": 0,
+    "NetworkCategories": [],
+    "CurrencyIcon": "DayZExpansion/Core/GUI/icons/misc/coinstack2_64x64.edds",
+    "ATMSystemEnabled": 1,
+    "MaxDepositMoney": 10000000,
+    "DefaultDepositMoney": 250000,
+    "ATMPlayerTransferEnabled": 1,
+    "ATMPartyLockerEnabled": 1,
+    "MaxPartyDepositMoney": 5000000,
+    "UseWholeMapForATMPlayerList": 0,
+    "SellPricePercent": 75.0,
+    "NetworkBatchSize": 100,
+    "MaxVehicleDistanceToTrader": 120.0,
+    "MaxLargeVehicleDistanceToTrader": 744.0,
+    "LargeVehicles": [
+        "expansionlhd"
+    ],
+    "LandSpawnPositions": [
+        {
+            "Position": [
+                18976.164063,
+				22.400055,
+				8390.894531
+            ],
+            "Orientation": [
+                24.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "Position": [
+                18974.927734,
+				22.400005,
+				8402.276367
+            ],
+            "Orientation": [
+                24.0,
+                0.0,
+                0.0
+            ]
+        },
+		{
+            "Position": [
+                3000.167236,
+				269.980011,
+				6526.425781
+            ],
+            "Orientation": [
+                24.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "AirSpawnPositions": [
+        {
+            "Position": [
+                3001.167236,
+				269.980011,
+				6527.425781
+            ],
+            "Orientation": [
+                24.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "Position": [
+                2976.929199,
+				270.055054,
+				6528.157227
+            ],
+            "Orientation": [
+                24.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "WaterSpawnPositions": [],
+    "MarketMenuColors": {
+        "BaseColorVignette": "000000C8",
+        "BaseColorHeaders": "13171BFF",
+        "BaseColorLabels": "27272DFF",
+        "BaseColorText": "FBFCFEFF",
+        "BaseColorCheckboxes": "FBFCFEFF",
+        "BaseColorInfoSectionBackground": "2225268C",
+        "BaseColorTooltipsHeaders": "000000F0",
+        "BaseColorTooltipsBackground": "000000DC",
+        "ColorDecreaseQuantityButton": "DD262614",
+        "ColorDecreaseQuantityIcon": "DD262628",
+        "ColorSetQuantityButton": "C7265114",
+        "ColorIncreaseQuantityButton": "A0CC7114",
+        "ColorIncreaseQuantityIcon": "A0CC7128",
+        "ColorSellPanel": "27272DFF",
+        "ColorSellButton": "DD262628",
+        "ColorBuyPanel": "27272DFF",
+        "ColorBuyButton": "A0CC7128",
+        "ColorMarketIcon": "E241428C",
+        "ColorFilterOptionsButton": "C726518C",
+        "ColorFilterOptionsIcon": "C726518C",
+        "ColorSearchFilterButton": "C726518C",
+        "ColorCategoryButton": "C726518C",
+        "ColorCategoryCollapseIcon": "C726518C",
+        "ColorCurrencyDenominationText": "FFB418FF",
+        "ColorItemButton": "C726518C",
+        "ColorItemInfoIcon": "FFB418FF",
+        "ColorItemInfoTitle": "FFB418FF",
+        "ColorItemInfoHasContainerItems": "FFB418FF",
+        "ColorItemInfoHasAttachments": "FFB418FF",
+        "ColorItemInfoHasBullets": "FFB418FF",
+        "ColorItemInfoIsAttachment": "FFB418FF",
+        "ColorItemInfoIsEquipped": "FFB418FF",
+        "ColorItemInfoAttachments": "FFB418FF",
+        "ColorToggleCategoriesText": "C726518C",
+        "ColorCategoryCorners": "FBFCFEFF",
+        "ColorCategoryBackground": "222526FF"
+    },
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "VehicleKeys": [
+        "ExpansionCarKey"
+    ],
+    "MaxSZVehicleParkingTime": 1800.0,
+    "SZVehicleParkingTicketFine": 0,
+    "SZVehicleParkingFineUseKey": 1,
+    "TrainSpawnPositions": [],
+    "DisallowUnpersisted": 0
+}

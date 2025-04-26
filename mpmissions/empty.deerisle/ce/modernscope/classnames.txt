@@ -1,0 +1,13 @@
+VTR_accupoint_Trijicon
+VTR_Barska
+VTR_Bravo4
+VTR_fx2_Scope
+VTR_NcstarAdo
+VTR_AtacrNightForce
+VTR_okp7_rail
+VTR_okp7_swallow
+VTR_PenTax
+VTR_SigSauerTango
+VTR_Vortex
+VTR_Razor_Vortex
+VTR_Vudu

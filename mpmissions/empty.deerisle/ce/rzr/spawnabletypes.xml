@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+      <type name="RTrzr">
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_driver_door" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_codriver_door" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_hood" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="RTrzr_Black">
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_driver_door_black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_codriver_door_black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_hood_black" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="RTrzr_Eclipse">
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_eclipse" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_eclipse" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_eclipse" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_eclipse" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_driver_door_eclipse" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_codriver_door_eclipse" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_hood_eclipse" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="RTrzr_Forest">
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_forest" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_forest" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_forest" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_forest" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_driver_door_forest" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_codriver_door_forest" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_hood_forest" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="RTrzr_Razzle">
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_razzle" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_razzle" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_razzle" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_razzle" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_driver_door_razzle" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_codriver_door_razzle" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_hood_razzle" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="RTrzr_Winter">
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_winter" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_winter" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_winter" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_winter" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_driver_door_winter" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_codriver_door_winter" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_hood_winter" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="RTrzr_Woodland">
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_woodland" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_woodland" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_woodland" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_woodland" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_driver_door_woodland" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_codriver_door_woodland" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_hood_woodland" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="RTrzr_Matte_Black">
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_matte_black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_matte_black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_matte_black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_matte_black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_driver_door_matte_black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_codriver_door_matte_black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_hood_matte_black" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="RTrzr_OD">
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_od" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_od" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_od" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_od" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_driver_door_od" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_codriver_door_od" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_hood_od" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="RTrzr_Desert">
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_desert" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_desert" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_desert" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_wheel_desert" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_driver_door_desert" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_codriver_door_desert" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RT_rzr_hood_desert" chance="1.00" />
+		</attachments>
+	</type>
+	</spawnabletypes>

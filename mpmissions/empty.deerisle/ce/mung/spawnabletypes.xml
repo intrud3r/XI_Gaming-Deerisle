@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+	<type name="csmcmillan_mung">
+		<attachments chance="1.00">
+			<item name="Mag_cs5_10Rnd_mung" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="mcmillan_buttstock" chance="1.00" />
+		</attachments>
+	</type>
+</spawnabletypes>
+

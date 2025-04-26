@@ -1,0 +1,8 @@
+************************** 2025-04-13T07:29:26+00:00 **************************
+2025-04-13T07:29:26+00:00 | [INFO	] GameLabs v1.953 start for server e412f446-dd29-4714-8fe1-80211af42c58
+2025-04-13T07:29:48+00:00 | [INFO	] Server up (GameLabs v1.953; terrain=deerisle;)
+2025-04-13T07:29:48+00:00 | [INFO	] RPC interface initiated and handler registered
+2025-04-13T07:52:38+00:00 | [ERROR	] PlayerConnect errorCode(5)
+2025-04-13T08:12:51+00:00 | [ERROR	] PlayerDisconnected<SurvivorBase<9ab2c310>> fired for already disconnected player [steam64=76561198173403525]
+2025-04-13T08:15:01+00:00 | [INFO	] (Reporter) Disabled
+2025-04-13T08:15:01+00:00 | [INFO	] (Core) Attempting graceful exit

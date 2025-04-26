@@ -1,0 +1,88 @@
+{
+    "m_Version": 5,
+    "EnableMap": 1,
+    "UseMapOnMapItem": 1,
+    "ShowPlayerPosition": 1,
+    "ShowMapStats": 1,
+    "NeedPenItemForCreateMarker": 0,
+    "NeedGPSItemForCreateMarker": 0,
+    "CanCreateMarker": 1,
+    "CanCreate3DMarker": 1,
+    "CanOpenMapWithKeyBinding": 1,
+    "ShowDistanceOnPersonalMarkers": 1,
+    "EnableHUDGPS": 1,
+    "NeedGPSItemForKeyBinding": 1,
+    "NeedMapItemForKeyBinding": 1,
+    "EnableServerMarkers": 1,
+    "ShowNameOnServerMarkers": 1,
+    "ShowDistanceOnServerMarkers": 1,
+    "ServerMarkers": [
+        {
+            "m_UID": "Trader",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Safe Trader",
+            "m_IconName": "Trader",
+            "m_Color": -13710223,
+            "m_Position": [
+                11380.900390625,
+                362.3739929199219,
+                4710.3798828125
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "Heli Trader",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Heli Trader",
+            "m_IconName": "Trader",
+            "m_Color": -926416896,
+            "m_Position": [
+                3001.167236328125,
+                269.9800109863281,
+                6527.42578125
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "Vehicle Trader",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Vehicle Trader",
+            "m_IconName": "Trader",
+            "m_Color": -926416896,
+            "m_Position": [
+                18976.1640625,
+                22.400054931640626,
+                8390.89453125
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        },
+        {
+            "m_UID": "Black Market",
+            "m_Visibility": 2,
+            "m_Is3D": 0,
+            "m_Text": "Black Market",
+            "m_IconName": "Human Skull",
+            "m_Color": -926416896,
+            "m_Position": [
+                6909.68994140625,
+                146.27890014648438,
+                8089.64990234375
+            ],
+            "m_Locked": 0,
+            "m_Persist": 1
+        }
+    ],
+    "EnableHUDCompass": 1,
+    "NeedCompassItemForHUDCompass": 1,
+    "NeedGPSItemForHUDCompass": 1,
+    "CompassColor": -1,
+    "CreateDeathMarker": 1,
+    "PlayerLocationNotifier": 1,
+    "CompassBadgesColor": -1946157056
+}
