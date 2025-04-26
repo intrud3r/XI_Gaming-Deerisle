@@ -1085,7 +1085,7 @@
         <nominal>0</nominal>
         <min>0</min>
         <max>0</max>
-        <lifetime>300</lifetime>
+        <lifetime>388000</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
         <distanceradius>500</distanceradius>
@@ -1104,7 +1104,7 @@
         <nominal>0</nominal>
         <min>0</min>
         <max>0</max>
-        <lifetime>300</lifetime>
+        <lifetime>388000</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
         <distanceradius>500</distanceradius>
@@ -1123,7 +1123,7 @@
         <nominal>0</nominal>
         <min>0</min>
         <max>0</max>
-        <lifetime>300</lifetime>
+        <lifetime>388000</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
         <distanceradius>500</distanceradius>
@@ -1142,7 +1142,7 @@
         <nominal>0</nominal>
         <min>0</min>
         <max>0</max>
-        <lifetime>300</lifetime>
+        <lifetime>388000</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
         <distanceradius>500</distanceradius>
@@ -1372,10 +1372,10 @@
         </children>
     </event>		
 	<event name="VehicleATVCivil">
-        <nominal>15</nominal>
+        <nominal>5</nominal>
         <min>10</min>
-        <max>15</max>
-        <lifetime>300</lifetime>
+        <max>30</max>
+        <lifetime>388000</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
         <distanceradius>500</distanceradius>
@@ -1396,8 +1396,8 @@
 	<event name="VehicleATVSTAG">
         <nominal>3</nominal>
         <min>3</min>
-        <max>2</max>
-        <lifetime>300</lifetime>
+        <max>12</max>
+        <lifetime>388000</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
         <distanceradius>500</distanceradius>
