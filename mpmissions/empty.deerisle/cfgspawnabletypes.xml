@@ -74,7 +74,18 @@
 	<type name="SSG82Optic">
 		<damage min="0.0" max="0.0" />
 	</type>
-	
+	<type name="dbo_raptor">
+		<cargo chance="0.00">
+			<item name="Paper" chance="0.50" />
+			<item name="Rag" chance="0.50" />
+		</cargo>
+	</type>
+	<type name="dbo_raptorB">
+		<cargo chance="0.00">
+			<item name="Paper" chance="0.50" />
+			<item name="Rag" chance="0.50" />
+		</cargo>
+	</type>
 	<type name="PlateCarrierVest">
 	</type>
 	<type name="PlateCarrierVest_Black">

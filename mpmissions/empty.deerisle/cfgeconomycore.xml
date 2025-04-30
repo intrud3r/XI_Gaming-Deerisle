@@ -37,6 +37,9 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<default name="save_types_startup" value="true"/>
 		<default name="randomloot_deloot_perevent" value="3" />
 	</defaults>
+	<ce folder="ce/dbraptor">
+		<file name="types.xml" type="types" />
+	</ce>
 	<!--
 	<ce folder="ce/pnc">
 		<file name="types.xml" type="types" />
