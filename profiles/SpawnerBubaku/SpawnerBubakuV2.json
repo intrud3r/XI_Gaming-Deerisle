@@ -13,7 +13,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "15291.40 27.45 1411.35"
             ],
@@ -38,7 +38,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "14822.59 69.64 1903.43"
             ],
@@ -63,7 +63,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "14009 65.61 1298.55"
             ],
@@ -88,7 +88,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "12978.61 21.11 1503.33"
             ],
@@ -113,7 +113,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "12138.28 12.22 2183.42"
             ],
@@ -138,7 +138,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "12473.17 31.96 3050.91"
             ],
@@ -163,7 +163,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "14398.11 87.88 2986.32"
             ],
@@ -188,7 +188,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "14143 7.58 3801.37"
             ],
@@ -213,7 +213,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "15734.83 9.45 4389.35"
             ],
@@ -238,7 +238,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "15692.18 22.85 4771.29"
             ],
@@ -263,7 +263,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "15758.16 22.24 5104.53"
             ],
@@ -288,7 +288,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "14058.38 12.01 5355.95"
             ],
@@ -313,7 +313,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "13393.62 100.99 5759.29"
             ],
@@ -338,7 +338,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "12791.41 51.15 5647.28"
             ],
@@ -363,7 +363,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "13992.50 82.24 6177.50"
             ],
@@ -388,7 +388,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "13490.29 18.59 6624.02"
             ],
@@ -413,7 +413,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "12798.23 22.04 7373.24"
             ],
@@ -438,7 +438,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "11570.40 80.84 8106.52"
             ],
@@ -463,7 +463,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "10401.73 24.87 7908.41"
             ],
@@ -488,7 +488,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "9851.05 8.94 7989.76"
             ],
@@ -513,7 +513,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "9059.41 34.66 7796.29"
             ],
@@ -538,7 +538,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "7788.75 14.34 7783.41"
             ],
@@ -563,7 +563,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "9021.87 11.40 7236.39"
             ],
@@ -588,7 +588,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "10056 32.529617 6727.029785"
             ],
@@ -613,7 +613,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "14150.97 137.48 2629.55"
             ],
@@ -638,7 +638,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "11122.23 40.97 2270.50"
             ],
@@ -663,7 +663,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "13399.66 12.95 9878.90"
             ],
@@ -688,7 +688,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "3073.83 22.63 4023.27"
             ],
@@ -713,7 +713,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "14135.31 2.51 6502.84"
             ],
@@ -738,7 +738,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "10056 32.529617 6727.029785"
             ],
@@ -763,7 +763,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "3492.4 11.45 8611.86"
             ],
@@ -788,7 +788,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "3912.59 13.5082 8986.44"
             ],
@@ -813,7 +813,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "7256.43 601.582 11727.1"
             ],
@@ -838,7 +838,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "7180.9 587.929 11612.6"
             ],
@@ -863,7 +863,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "5582.96 15.1452 1184.38"
             ],
@@ -888,7 +888,7 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 1800,
+            "triggerdelay": 600,
             "spawnerpos": [
                 "5606.62 36.1486 4942.04"
             ],
