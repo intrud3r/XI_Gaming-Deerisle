@@ -795,6 +795,58 @@
                 "Animal_dbo_raptorblue_BABY"
             ],
             "bubakinventory": []
+        },
+        {
+            "name": "KMUC",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "7256.43 601.582 11727.1",
+            "triggermins": "",
+            "triggermaxs": "",
+            "triggerradius": 400.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 600,
+            "spawnerpos": [
+                "7256.43 601.582 11727.1"
+            ],
+            "spawnradius": 30.0,
+            "bubaknum": 4,
+            "onlyfilluptobubaknum": 0,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Animal_dbo_raptorblue",
+            "Animal_dbo_raptorblue_BABY",
+            "Animal_dbo_raptorblue_BABY"
+            ],
+            "bubakinventory": []
+        },
+        {
+            "name": "KMUC2",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "7180.9 587.929 11612.6",
+            "triggermins": "",
+            "triggermaxs": "",
+            "triggerradius": 300.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 600,
+            "spawnerpos": [
+                "7180.9 587.929 11612.6"
+            ],
+            "spawnradius": 30.0,
+            "bubaknum": 1,
+                "onlyfilluptobubaknum": 0,
+                "itemrandomdmg": 0,
+                "bubaci": [
+                    "Animal_dbo_trex_GIANTCHICKEN"
+            ],
+            "bubakinventory": []
         }
     ]
 }
