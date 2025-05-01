@@ -41,7 +41,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="types.xml" type="types" />
 	</ce>
 	<!-- MoreDinos -->
-	<ce folder="CustomTypes/MoreDinos">
+	<ce folder="ce/MoreDinos">
 		<file name="types.xml" type="types" />
 		<file name="events.xml" type="events" />
 		<file name="spawnabletypes.xml" type="spawnabletypes" />
