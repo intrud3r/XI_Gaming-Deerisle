@@ -797,10 +797,10 @@
             "bubakinventory": []
         },
         {
-            "name": "RCFI Swamp",
+            "name": "RCFI Swamp West",
             "workinghours": "0-24",
             "triggerdependency": [],
-            "triggerpos": "3944.50 6 8715.70",
+            "triggerpos": "3492.4 11.45 8611.86",
             "triggermins": "",
             "triggermaxs": "",
             "triggerradius": 300.0,
@@ -810,7 +810,7 @@
             "notificationtime": 2,
             "triggerdelay": 3600,
             "spawnerpos": [
-                "3944.50 6 8715.70"
+                "3492.4 11.45 8611.86"
             ],
             "spawnradius": 30.0,
             "bubaknum": 3,
@@ -826,10 +826,10 @@
             "bubakinventory": []
         },
         {
-            "name": "RCFI Swamp 2",
+            "name": "RCFI Swamp East",
             "workinghours": "0-24",
             "triggerdependency": [],
-            "triggerpos": "3366.00 5 9221.24",
+            "triggerpos": "3912.59 13.5082 8986.44",
             "triggermins": "",
             "triggermaxs": "",
             "triggerradius": 300.0,
@@ -839,7 +839,7 @@
             "notificationtime": 2,
             "triggerdelay": 3600,
             "spawnerpos": [
-                " 3366.00 5 9221.24"
+                "3912.59 13.5082 8986.44"
             ],
             "spawnradius": 30.0,
             "bubaknum": 3,
@@ -858,17 +858,17 @@
             "name": "KMUC",
             "workinghours": "0-24",
             "triggerdependency": [],
-            "triggerpos": "7298.00 0 11786.24",
+            "triggerpos": "7256.43 601.582 11727.1",
             "triggermins": "",
             "triggermaxs": "",
-            "triggerradius": 300.0,
+            "triggerradius": 400.0,
             "triggercylradius": 0.0,
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
             "triggerdelay": 3600,
             "spawnerpos": [
-                "7298.00 0 11786.24"
+                "7256.43 601.582 11727.1"
             ],
             "spawnradius": 30.0,
             "bubaknum": 3,
@@ -878,6 +878,85 @@
                 "Animal_dbo_raptorB_BABY",
                 "Animal_dbo_raptorB_BABY",
                 "Animal_dbo_raptorB_ADULT"
+            ],
+            "bubakinventory": []
+        },
+        {
+            "name": "KMUC2",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "7180.9 587.929 11612.6",
+            "triggermins": "",
+            "triggermaxs": "",
+            "triggerradius": 300.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 3600,
+            "spawnerpos": [
+                "7180.9 587.929 11612.6"
+            ],
+            "spawnradius": 30.0,
+            "bubaknum": 3,
+            "onlyfilluptobubaknum": 3,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Animal_dbo_raptorB_BABY",
+                "Animal_dbo_raptorB_BABY",
+                "Animal_dbo_raptorB_ADULT"
+            ],
+            "bubakinventory": []
+        },
+        {
+            "name": "CampWolf",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "5582.96 15.1452 1184.38",
+            "triggermins": "",
+            "triggermaxs": "",
+            "triggerradius": 300.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 3600,
+            "spawnerpos": [
+                "5582.96 15.1452 1184.38"
+            ],
+            "spawnradius": 30.0,
+            "bubaknum": 3,
+            "onlyfilluptobubaknum": 3,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Animal_dbo_raptorB_BABY",
+                "Animal_dbo_raptorB_BABY"                
+            ],
+            "bubakinventory": []
+        },
+        {
+            "name": "Road to Warren",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "5606.62 36.1486 4942.04",
+            "triggermins": "",
+            "triggermaxs": "",
+            "triggerradius": 300.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 3600,
+            "spawnerpos": [
+                "5606.62 36.1486 4942.04"
+            ],
+            "spawnradius": 30.0,
+            "bubaknum": 3,
+            "onlyfilluptobubaknum": 3,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Animal_dbo_raptorB_BABY",
+                "Animal_dbo_raptorB_BABY"                
             ],
             "bubakinventory": []
         }
