@@ -503,7 +503,6 @@
         {
             "name": "Crater Island South East",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "15291.40 27.45 1411.35",
             "triggermins": "",
             "triggermaxs": "",
@@ -524,13 +523,11 @@
                 "Animal_dbo_raptorblue",
                 "Animal_dbo_raptorblue_BABY",
                 "Animal_dbo_raptorblue_BABY"
-            ],
-            "bubakinventory": []
+            ]
         },
         {
             "name": "Crater Island South East",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "14822.59 69.64 1903.43",
             "triggermins": "",
             "triggermaxs": "",
@@ -551,13 +548,11 @@
                 "Animal_dbo_raptor_BABY",
                 "Animal_dbo_raptor_BABY",
                 "Animal_dbo_raptor_ADULT"
-            ],
-            "bubakinventory": []
+            ]
         },
         {
             "name": "Crater Island South",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "14009 65.61 1298.55",
             "triggermins": "",
             "triggermaxs": "",
@@ -576,13 +571,11 @@
             "itemrandomdmg": 0,
             "bubaci": [
                 "Animal_dbo_idrex_ADULT"
-            ],
-            "bubakinventory": []
+            ]
         },
         {
             "name": "Crater Island South West",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "12978.61 21.11 1503.33",
             "triggermins": "",
             "triggermaxs": "",
@@ -603,13 +596,11 @@
                 "Animal_dbo_raptorblue",
                 "Animal_dbo_raptorblue_BABY",
                 "Animal_dbo_raptorblue_BABY"
-            ],
-            "bubakinventory": []
+            ]
         },
         {
             "name": "Crater Island South West",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "12138.28 12.22 2183.42",
             "triggermins": "",
             "triggermaxs": "",
@@ -630,13 +621,11 @@
                 "Animal_dbo_raptorB_BABY",
                 "Animal_dbo_raptorB_BABY",
                 "Animal_dbo_raptorB_ADULT"
-            ],
-            "bubakinventory": []
+            ]
         },
         {
             "name": "Crater Island South West",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "12473.17 31.96 3050.91",
             "triggermins": "",
             "triggermaxs": "",
@@ -657,13 +646,11 @@
                 "Animal_dbo_raptorB_BABY",
                 "Animal_dbo_raptorB_BABY",
                 "Animal_dbo_raptorB_ADULT"
-            ],
-            "bubakinventory": []
+            ]
         },
         {
             "name": "Crater Island Central 2",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "14398.11 87.88 2986.32",
             "triggermins": "",
             "triggermaxs": "",
@@ -684,13 +671,11 @@
                 "Animal_dbo_tricero_BABY",
                 "Animal_dbo_tricero_BABY",
                 "Animal_dbo_tricero"
-            ],
-            "bubakinventory": []
+            ]
         },
         {
             "name": "Crater Island Central 3",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "14143 7.58 3801.37",
             "triggermins": "",
             "triggermaxs": "",
@@ -711,13 +696,11 @@
                 "Animal_dbo_raptorblue",
                 "Animal_dbo_raptorblue_BABY",
                 "Animal_dbo_raptorblue_BABY"
-            ],
-            "bubakinventory": []
+            ]
         },
         {
             "name": "Crater Island North 1",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "15734.83 9.45 4389.35",
             "triggermins": "",
             "triggermaxs": "",
@@ -738,13 +721,11 @@
                 "Animal_dbo_raptor_BABY",
                 "Animal_dbo_raptor_BABY",
                 "Animal_dbo_raptor_ADULT"
-            ],
-            "bubakinventory": []
+            ]
         },
         {
             "name": "Crater Island North 2",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "15692.18 22.85 4771.29",
             "triggermins": "",
             "triggermaxs": "",
@@ -763,13 +744,11 @@
             "itemrandomdmg": 0,
             "bubaci": [
                 "Animal_dbo_idrex_ADULT"
-            ],
-            "bubakinventory": []
+            ]
         },
         {
             "name": "Crater Island North 3",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "15758.16 22.24 5104.53",
             "triggermins": "",
             "triggermaxs": "",
@@ -790,13 +769,11 @@
                 "Animal_dbo_raptorB_BABY",
                 "Animal_dbo_raptorB_BABY",
                 "Animal_dbo_raptorB_ADULT"
-            ],
-            "bubakinventory": []
+            ]
         },
         {
             "name": "Unnamed Island 1",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "14058.38 12.01 5355.95",
             "triggermins": "",
             "triggermaxs": "",
@@ -817,13 +794,11 @@
                 "Animal_dbo_raptorblue",
                 "Animal_dbo_raptorblue_BABY",
                 "Animal_dbo_raptorblue_BABY"
-            ],
-            "bubakinventory": []
+            ]
         },
         {
             "name": "Unnamed Island 2",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "13393.62 100.99 5759.29",
             "triggermins": "",
             "triggermaxs": "",
@@ -844,13 +819,11 @@
                 "Animal_dbo_raptor_BABY",
                 "Animal_dbo_raptor_BABY",
                 "Animal_dbo_raptor_ADULT"
-            ],
-            "bubakinventory": []
+            ]
         },
         {
             "name": "Unnamed Island 3",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "12791.41 51.15 5647.28",
             "triggermins": "",
             "triggermaxs": "",
@@ -871,13 +844,11 @@
                 "Animal_dbo_raptor_BABY",
                 "Animal_dbo_raptor_BABY",
                 "Animal_dbo_raptor_ADULT"
-            ],
-            "bubakinventory": []
+            ]
         },
         {
             "name": "Unnamed Island 4",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "13992.50 82.24 6177.50",
             "triggermins": "",
             "triggermaxs": "",
@@ -898,13 +869,11 @@
                 "Animal_dbo_raptorblue",
                 "Animal_dbo_raptorblue_BABY",
                 "Animal_dbo_raptorblue_BABY"
-            ],
-            "bubakinventory": []
+            ]
         },
         {
             "name": "Unnamed Island 5",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "13490.29 18.59 6624.02",
             "triggermins": "",
             "triggermaxs": "",
@@ -925,13 +894,11 @@
                 "Animal_dbo_raptorblue",
                 "Animal_dbo_raptorblue_BABY",
                 "Animal_dbo_raptorblue_BABY"
-            ],
-            "bubakinventory": []
+            ]
         },
         {
             "name": "Unnamed Island 6",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "12798.23 22.04 7373.24",
             "triggermins": "",
             "triggermaxs": "",
@@ -950,13 +917,11 @@
             "itemrandomdmg": 0,
             "bubaci": [
                 "Animal_dbo_tricero_ADULT"
-            ],
-            "bubakinventory": []
+            ]
         },
         {
             "name": "Unnamed Island 7",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "11570.40 80.84 8106.52",
             "triggermins": "",
             "triggermaxs": "",
@@ -975,13 +940,11 @@
             "itemrandomdmg": 0,
             "bubaci": [
                 "Animal_dbo_idrex_ADULT"
-            ],
-            "bubakinventory": []
+            ]
         },
         {
             "name": "Unnamed Island 8",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "10401.73 24.87 7908.41",
             "triggermins": "",
             "triggermaxs": "",
@@ -1002,13 +965,11 @@
                 "Animal_dbo_raptorB_BABY",
                 "Animal_dbo_raptorB_BABY",
                 "Animal_dbo_raptorB_ADULT"
-            ],
-            "bubakinventory": []
+            ]
         },
         {
             "name": "Unnamed Island 9",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "9851.05 8.94 7989.76",
             "triggermins": "",
             "triggermaxs": "",
@@ -1029,13 +990,11 @@
                 "Animal_dbo_raptor_BABY",
                 "Animal_dbo_raptor_BABY",
                 "Animal_dbo_raptor_ADULT"
-            ],
-            "bubakinventory": []
+            ]
         },
         {
             "name": "Unnamed Island 10",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "9059.41 34.66 7796.29",
             "triggermins": "",
             "triggermaxs": "",
@@ -1055,13 +1014,11 @@
             "bubaci": [
                 "Animal_dbo_tricero_BABY",
                 "Animal_dbo_tricero_BABY"
-            ],
-            "bubakinventory": []
+            ]
         },
         {
             "name": "Unnamed Island 11",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "7788.75 14.34 7783.41",
             "triggermins": "",
             "triggermaxs": "",
@@ -1082,13 +1039,11 @@
                 "Animal_dbo_raptorblue",
                 "Animal_dbo_raptorblue_BABY",
                 "Animal_dbo_raptorblue_BABY"
-            ],
-            "bubakinventory": []
+            ]
         },
         {
             "name": "Unnamed Island 12",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "9021.87 11.40 7236.39",
             "triggermins": "",
             "triggermaxs": "",
@@ -1109,13 +1064,11 @@
                 "Animal_dbo_raptorB_BABY",
                 "Animal_dbo_raptorB_BABY",
                 "Animal_dbo_raptorB_ADULT"
-            ],
-            "bubakinventory": []
+            ]
         },
         {
             "name": "Unnamed Island 13",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "10056 32.529617 6727.029785",
             "triggermins": "",
             "triggermaxs": "",
@@ -1134,13 +1087,11 @@
             "itemrandomdmg": 0,
             "bubaci": [
                 "Animal_dbo_idrex_ADULT"
-            ],
-            "bubakinventory": []
+            ]
         },
         {
             "name": "Baby Rex Crater Military",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "14150.97 137.48 2629.55",
             "triggermins": "",
             "triggermaxs": "",
@@ -1159,13 +1110,11 @@
             "itemrandomdmg": 0,
             "bubaci": [
                 "Animal_dbo_trex_BABY"
-            ],
-            "bubakinventory": []
+            ]
         },
         {
             "name": "Big Rex Mine",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "11122.23 40.97 2270.50",
             "triggermins": "",
             "triggermaxs": "",
@@ -1184,13 +1133,11 @@
             "itemrandomdmg": 0,
             "bubaci": [
                 "Animal_dbo_trex_GIANTCHICKEN"
-            ],
-            "bubakinventory": []
+            ]
         },
         {
             "name": "Big Rex Area 42",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "13399.66 12.95 9878.90",
             "triggermins": "",
             "triggermaxs": "",
@@ -1209,17 +1156,15 @@
             "itemrandomdmg": 0,
             "bubaci": [
                 "Animal_dbo_trex_GIANTCHICKEN"
-            ],
-            "bubakinventory": []
+            ]
         },
         {
             "name": "Paris Front Raptors",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "3073.83 22.63 4023.27",
             "triggermins": "",
             "triggermaxs": "",
-            "triggerradius": 100.0,
+            "triggerradius": 400.0,
             "triggercylradius": 0.0,
             "triggercylheight": 0.0,
             "notification": "",
@@ -1229,24 +1174,22 @@
                 "3073.83 22.63 4023.27"
             ],
             "spawnradius": 30.0,
-            "bubaknum": 3,
-            "onlyfilluptobubaknum": 3,
+            "bubaknum": 5,
+            "onlyfilluptobubaknum": 5,
             "itemrandomdmg": 0,
             "bubaci": [
                 "Animal_dbo_raptorblue",
                 "Animal_dbo_raptorblue_BABY",
                 "Animal_dbo_raptorblue_BABY"
-            ],
-            "bubakinventory": []
+            ]
         },
         {
             "name": "Sunken City Raptors",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "14135.31 2.51 6502.84",
             "triggermins": "",
             "triggermaxs": "",
-            "triggerradius": 100.0,
+            "triggerradius": 400.0,
             "triggercylradius": 0.0,
             "triggercylheight": 0.0,
             "notification": "",
@@ -1256,24 +1199,22 @@
                 "14135.31 2.51 6502.84"
             ],
             "spawnradius": 30.0,
-            "bubaknum": 1,
-            "onlyfilluptobubaknum": 1,
+            "bubaknum": 5,
+            "onlyfilluptobubaknum": 5,
             "itemrandomdmg": 0,
             "bubaci": [
                 "Animal_dbo_raptorblue",
                 "Animal_dbo_raptorblue_BABY",
                 "Animal_dbo_raptorblue_BABY"
-            ],
-            "bubakinventory": []
+            ]
         },
         {
             "name": "Unnamed Island 13",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "10056 32.529617 6727.029785",
             "triggermins": "",
             "triggermaxs": "",
-            "triggerradius": 300.0,
+            "triggerradius": 400.0,
             "triggercylradius": 0.0,
             "triggercylheight": 0.0,
             "notification": "",
@@ -1283,8 +1224,8 @@
                 "10056 32.529617 6727.029785"
             ],
             "spawnradius": 30.0,
-            "bubaknum": 3,
-            "onlyfilluptobubaknum": 3,
+            "bubaknum": 5,
+            "onlyfilluptobubaknum": 5,
             "itemrandomdmg": 0,
             "bubaci": [
                 "Animal_dbo_raptorblue",
@@ -1292,13 +1233,11 @@
                 "Animal_dbo_raptoridrex_ADULT",
                 "Animal_dbo_raptor",
                 "Animal_dbo_raptorblue_BABY"
-            ],
-            "bubakinventory": []
+            ]
         },
         {
             "name": "KMUC",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "7256.43 601.582 11727.1",
             "triggermins": "",
             "triggermaxs": "",
@@ -1307,26 +1246,48 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 600,
+            "triggerdelay": 3600,
             "spawnerpos": [
                 "7256.43 601.582 11727.1"
             ],
             "spawnradius": 30.0,
             "bubaknum": 4,
-            "onlyfilluptobubaknum": 0,
+            "onlyfilluptobubaknum": 4,
             "itemrandomdmg": 0,
             "bubaci": [
                 "Animal_dbo_raptorblue",
-            "Animal_dbo_raptorblue_BABY",
-            "Animal_dbo_raptorblue_BABY"
-            ],
-            "bubakinventory": []
+                "Animal_dbo_raptorblue_BABY",
+                "Animal_dbo_raptorblue_BABY"
+            ]
         },
         {
             "name": "KMUC2",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "7180.9 587.929 11612.6",
+            "triggermins": "",
+            "triggermaxs": "",
+            "triggerradius": 200.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 3600,
+            "spawnerpos": [
+                "7180.9 587.929 11612.6"
+            ],
+            "spawnradius": 30.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Animal_dbo_trex_GIANTCHICKEN"
+            ]
+        },
+		{
+            "name": "CampWolf",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "5582.96 15.1452 1184.38",
             "triggermins": "",
             "triggermaxs": "",
             "triggerradius": 300.0,
@@ -1334,18 +1295,95 @@
             "triggercylheight": 0.0,
             "notification": "",
             "notificationtime": 2,
-            "triggerdelay": 600,
+            "triggerdelay": 3600,
             "spawnerpos": [
-                "7180.9 587.929 11612.6"
+                "5582.96 15.1452 1184.38"
             ],
             "spawnradius": 30.0,
-            "bubaknum": 1,
-                "onlyfilluptobubaknum": 0,
+            "bubaknum": 3,
+                "onlyfilluptobubaknum": 3,
                 "itemrandomdmg": 0,
                 "bubaci": [
-                    "Animal_dbo_trex_GIANTCHICKEN"
+                    "Animal_dbo_trex_BABY"
+            ]
+        },
+		{
+            "name": "Road to Warren",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "5606.62 36.1486 4942.04",
+            "triggermins": "",
+            "triggermaxs": "",
+            "triggerradius": 300.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 3600,
+            "spawnerpos": [
+                "5606.62 36.1486 4942.04"
             ],
-            "bubakinventory": []
+            "spawnradius": 30.0,
+            "bubaknum": 5,
+                "onlyfilluptobubaknum": 5,
+                "itemrandomdmg": 0,
+                "bubaci": [
+                    "Animal_dbo_trex_BABY"
+            ]
+        },
+		{
+            "name": "RCFI Swamp East",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "3912.59 13.5082 8986.44",
+            "triggermins": "",
+            "triggermaxs": "",
+            "triggerradius": 300.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 3600,
+            "spawnerpos": [
+                "3912.59 13.5082 8986.44"
+            ],
+            "spawnradius": 30.0,
+              "bubaknum": 3,
+                "onlyfilluptobubaknum": 3,
+                "itemrandomdmg": 0,
+                "bubaci": [
+                    "Animal_dbo_raptorB_BABY",
+                    "Animal_dbo_raptorB_BABY",
+                    "Animal_dbo_raptorB_ADULT"
+            ]
+        },
+		{
+             "name": "RCFI Swamp West",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "3492.4 11.45 8611.86",
+            "triggermins": "",
+            "triggermaxs": "",
+            "triggerradius": 300.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 3600,
+            "spawnerpos": [
+                "3492.4 11.45 8611.86"
+            ],
+            "spawnradius": 30.0,
+            "bubaknum": 2,
+                "onlyfilluptobubaknum": 2,
+                "itemrandomdmg": 0,
+                "bubaci": [
+                    "Animal_dbo_raptorB_BABY",
+                    "Animal_dbo_raptorB_BABY",
+                    "Animal_dbo_raptorB_ADULT"
+                ],
+                "bubakinventory": []
+            ]
         }
     ]
 }
