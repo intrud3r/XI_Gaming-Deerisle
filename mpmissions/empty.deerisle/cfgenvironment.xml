@@ -42,9 +42,7 @@
 		</territory>
         <territory type="Herd" name="TRexGIANTCHICKEN" behavior="BlissBearGroupBeh">
 			<file usable="MoreDinos_Deerisle_territories" />
-		</territory>
-		
-		
+		</territory>		
 		<territory type="Herd" name="Wolf" behavior="DZWolfGroupBeh">
 			<file usable="wolf_territories" />
 		</territory>

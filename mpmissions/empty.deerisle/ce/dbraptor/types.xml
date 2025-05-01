@@ -1,4 +1,5 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<types>
     <type name="dbo_raptor">
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
@@ -25,4 +26,4 @@
         <tag name="shelves"/>
         <usage name="Village"/>
     </type>
-	
+</types>
