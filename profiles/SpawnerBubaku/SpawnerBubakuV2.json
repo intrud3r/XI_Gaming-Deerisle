@@ -795,6 +795,92 @@
                 "Animal_dbo_raptorblue_BABY"
             ],
             "bubakinventory": []
+        },
+        {
+            "name": "RCFI Swamp",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "3944.50 6 8715.70",
+            "triggermins": "",
+            "triggermaxs": "",
+            "triggerradius": 300.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 3600,
+            "spawnerpos": [
+                "3944.50 6 8715.70"
+            ],
+            "spawnradius": 30.0,
+            "bubaknum": 3,
+            "onlyfilluptobubaknum": 3,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Animal_dbo_raptorblue",
+                "Animal_dbo_raptorB_BABY",
+                "Animal_dbo_raptoridrex_ADULT",
+                "Animal_dbo_raptor",
+                "Animal_dbo_raptorblue_BABY"
+            ],
+            "bubakinventory": []
+        },
+        {
+            "name": "RCFI Swamp 2",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "3366.00 5 9221.24",
+            "triggermins": "",
+            "triggermaxs": "",
+            "triggerradius": 300.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 3600,
+            "spawnerpos": [
+                " 3366.00 5 9221.24"
+            ],
+            "spawnradius": 30.0,
+            "bubaknum": 3,
+            "onlyfilluptobubaknum": 3,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Animal_dbo_raptorblue",
+                "Animal_dbo_raptorB_BABY",
+                "Animal_dbo_raptoridrex_ADULT",
+                "Animal_dbo_raptor",
+                "Animal_dbo_raptorblue_BABY"
+            ],
+            "bubakinventory": []
+        },
+        {
+            "name": "KMUC",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "7298.00 0 11786.24",
+            "triggermins": "",
+            "triggermaxs": "",
+            "triggerradius": 300.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 3600,
+            "spawnerpos": [
+                "7298.00 0 11786.24"
+            ],
+            "spawnradius": 30.0,
+            "bubaknum": 3,
+            "onlyfilluptobubaknum": 3,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Animal_dbo_raptorB_BABY",
+                "Animal_dbo_raptorB_BABY",
+                "Animal_dbo_raptorB_ADULT"
+            ],
+            "bubakinventory": []
         }
     ]
 }
+
