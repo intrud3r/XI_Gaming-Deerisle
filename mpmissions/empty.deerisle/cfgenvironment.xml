@@ -18,31 +18,30 @@
 		<file path="env/pig_territories.xml" />
 		<file path="env/reindeer_territories.xml" />
 		<file path="env/Raptor_territories.xml" />
-		 <!-- MoreDinos Territories -->
-        <file path="env/MoreDinos_Chernarus_territories.xml" />
+		<file path="env/MoreDinos_Deerisle_territories.xml" />
 		
 		<!-- <file path="env/hare_territories.xml" /> -->
 		<!-- MoreDinos Behaviors -->
         <territory type="Herd" name="RaptorFamily" behavior="BlissBearGroupBeh">
-			<file usable="MoreDinos_Chernarus_territories" />
+			<file usable="MoreDinos_Deerisle_territories" />
 		</territory>
         <territory type="Herd" name="RaptorBlueFamily" behavior="BlissBearGroupBeh">
-			<file usable="MoreDinos_Chernarus_territories" />
+			<file usable="MoreDinos_Deerisle_territories" />
 		</territory>
         <territory type="Herd" name="RaptorBFamily" behavior="BlissBearGroupBeh">
-			<file usable="MoreDinos_Chernarus_territories" />
+			<file usable="MoreDinos_Deerisle_territories" />
 		</territory>
         <territory type="Herd" name="TriceroFamily" behavior="BlissBearGroupBeh">
-			<file usable="MoreDinos_Chernarus_territories" />
+			<file usable="MoreDinos_Deerisle_territories" />
 		</territory>
         <territory type="Herd" name="IdrexFamily" behavior="BlissBearGroupBeh">
-			<file usable="MoreDinos_Chernarus_territories" />
+			<file usable="MoreDinos_Deerisle_territories" />
 		</territory>
         <territory type="Herd" name="TRexFamily" behavior="BlissBearGroupBeh">
-			<file usable="MoreDinos_Chernarus_territories" />
+			<file usable="MoreDinos_Deerisle_territories" />
 		</territory>
         <territory type="Herd" name="TRexGIANTCHICKEN" behavior="BlissBearGroupBeh">
-			<file usable="MoreDinos_Chernarus_territories" />
+			<file usable="MoreDinos_Deerisle_territories" />
 		</territory>
 		
 		
