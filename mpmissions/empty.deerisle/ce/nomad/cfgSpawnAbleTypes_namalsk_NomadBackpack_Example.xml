@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+<!-- If you add this to the existing file, DO NOT COPY ABOVE!
+	 COPY FROM HERE -->
+
+<!-- NomadBackpack - CLOTHES - BAGS -->
+	<type name="Nomadbackpack_v3_BaseColor">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+		<cargo preset="magscivil" />
+    </type>
+	<type name="Nomadbackpack_v3_Blue">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+		<cargo preset="magscivil" />
+    </type>
+	<type name="Nomadbackpack_v3_Teal">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+		<cargo preset="magscivil" />
+    </type>
+	<type name="Nomadbackpack_v3_Green">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+		<cargo preset="magscivil" />
+    </type>
+	<type name="Nomadbackpack_v3_Grey">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+		<cargo preset="magscivil" />
+    </type>
+	<type name="Nomadbackpack_v3_Red">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+		<cargo preset="magscivil" />
+    </type>
+	<type name="Nomadbackpack_v3_Yellow">
+        <cargo preset="toolsgeneral" />
+        <cargo preset="ammocivil" />
+		<cargo preset="magscivil" />
+    </type>
+	<type name="Nomadbackpack_v3_Black">
+		<cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+		<cargo preset="magsmilitary" />
+    </type>
+	<type name="Nomadbackpack_v3_AoR2">
+		<cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+		<cargo preset="magsmilitary" />
+    </type>
+	<type name="Nomadbackpack_v3_Woodland">
+		<cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+		<cargo preset="magsmilitary" />
+    </type>
+	<type name="Nomadbackpack_v3_Winter">
+		<cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+		<cargo preset="magsmilitary" />
+    </type>
+
+<!-- If you add this to the existing file, COPY TILL HERE!
+	 DO NOT COPY “</spawnabletypes>” -->
+</spawnabletypes>
