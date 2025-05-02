@@ -500,6 +500,7 @@
                 "ZmbM_usSoldier_normal_Woodland"
             ]
         },
+
         {
             "name": "Crater Island South East",
             "workinghours": "0-24",
@@ -1356,34 +1357,7 @@
                     "Animal_dbo_raptorB_BABY",
                     "Animal_dbo_raptorB_ADULT"
             ]
-        },
-		{
-             "name": "RCFI Swamp West",
-            "workinghours": "0-24",
-            "triggerdependency": [],
-            "triggerpos": "3492.4 11.45 8611.86",
-            "triggermins": "",
-            "triggermaxs": "",
-            "triggerradius": 300.0,
-            "triggercylradius": 0.0,
-            "triggercylheight": 0.0,
-            "notification": "",
-            "notificationtime": 2,
-            "triggerdelay": 3600,
-            "spawnerpos": [
-                "3492.4 11.45 8611.86"
-            ],
-            "spawnradius": 30.0,
-            "bubaknum": 2,
-                "onlyfilluptobubaknum": 2,
-                "itemrandomdmg": 0,
-                "bubaci": [
-                    "Animal_dbo_raptorB_BABY",
-                    "Animal_dbo_raptorB_BABY",
-                    "Animal_dbo_raptorB_ADULT"
-                ],
-                "bubakinventory": []
-            ]
         }
+		
     ]
 }
