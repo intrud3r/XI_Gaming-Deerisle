@@ -1158,9 +1158,9 @@
         </children>
     </event>
 	<event name="VehicleBoat">
-        <nominal>10</nominal>
-        <min>8</min>
-        <max>10</max>
+        <nominal>20</nominal>
+        <min>15</min>
+        <max>20</max>
         <lifetime>6000</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -1176,9 +1176,9 @@
 	  </children>
     </event>
 	<event name="VehicleBoatSTAG">
-        <nominal>3</nominal>
-        <min>3</min>
-        <max>2</max>
+        <nominal>10</nominal>
+        <min>8</min>
+        <max>10</max>
         <lifetime>6000</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -1215,8 +1215,8 @@
     </event>
     <event name="VehicleHatchback02">
         <nominal>0</nominal>
-        <min>0</min>
-        <max>0</max>
+        <min>5</min>
+        <max>15</max>
         <lifetime>388000</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -1504,7 +1504,7 @@
         </children>
     </event>		
 	<event name="VehicleATVCivil">
-        <nominal>5</nominal>
+        <nominal>15</nominal>
         <min>10</min>
         <max>30</max>
         <lifetime>388000</lifetime>
