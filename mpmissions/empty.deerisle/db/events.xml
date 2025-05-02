@@ -58,9 +58,9 @@
         </children>
     </event>
     <event name="AnimalTriceroFamily">
-        <nominal>3</nominal>
+        <nominal>10</nominal>
         <min>2</min>
-        <max>3</max>
+        <max>10</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -71,9 +71,9 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="Animal_dbo_tricero"/>
-            <child lootmax="0" lootmin="0" max="2" min="1" type="Animal_dbo_tricero_BABY"/>
-            <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_dbo_tricero_ADULT"/>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Animal_dbo_tricero"/>
+            <child lootmax="0" lootmin="0" max="4" min="1" type="Animal_dbo_tricero_BABY"/>
+            <child lootmax="0" lootmin="0" max="4" min="0" type="Animal_dbo_tricero_ADULT"/>
         </children>
     </event>
     <event name="AnimalIdrexFamily">
