@@ -500,7 +500,6 @@
                 "ZmbM_usSoldier_normal_Woodland"
             ]
         },
-
         {
             "name": "Crater Island South East",
             "workinghours": "0-24",
@@ -1284,10 +1283,9 @@
                 "Animal_dbo_trex_GIANTCHICKEN"
             ]
         },
-		{
+        {
             "name": "CampWolf",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "5582.96 15.1452 1184.38",
             "triggermins": "",
             "triggermaxs": "",
@@ -1302,16 +1300,15 @@
             ],
             "spawnradius": 30.0,
             "bubaknum": 3,
-                "onlyfilluptobubaknum": 3,
-                "itemrandomdmg": 0,
-                "bubaci": [
-                    "Animal_dbo_trex_BABY"
+            "onlyfilluptobubaknum": 3,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Animal_dbo_trex_BABY"
             ]
         },
-		{
+        {
             "name": "Road to Warren",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "5606.62 36.1486 4942.04",
             "triggermins": "",
             "triggermaxs": "",
@@ -1326,16 +1323,15 @@
             ],
             "spawnradius": 30.0,
             "bubaknum": 5,
-                "onlyfilluptobubaknum": 5,
-                "itemrandomdmg": 0,
-                "bubaci": [
-                    "Animal_dbo_trex_BABY"
+            "onlyfilluptobubaknum": 5,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Animal_dbo_trex_BABY"
             ]
         },
-		{
+        {
             "name": "RCFI Swamp East",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "3912.59 13.5082 8986.44",
             "triggermins": "",
             "triggermaxs": "",
@@ -1349,19 +1345,18 @@
                 "3912.59 13.5082 8986.44"
             ],
             "spawnradius": 30.0,
-              "bubaknum": 3,
-                "onlyfilluptobubaknum": 3,
-                "itemrandomdmg": 0,
-                "bubaci": [
-                    "Animal_dbo_raptorB_BABY",
-                    "Animal_dbo_raptorB_BABY",
-                    "Animal_dbo_raptorB_ADULT"
+            "bubaknum": 3,
+            "onlyfilluptobubaknum": 3,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Animal_dbo_raptorB_BABY",
+                "Animal_dbo_raptorB_BABY",
+                "Animal_dbo_raptorB_ADULT"
             ]
         },
         {
             "name": "OLD FIELD WEST MOUNTAIN",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "5923.26 70.1457 6725.85",
             "triggermins": "",
             "triggermaxs": "",
@@ -1375,19 +1370,18 @@
                 "5923.26 70.1457 6725.85"
             ],
             "spawnradius": 30.0,
-              "bubaknum": 3,
-                "onlyfilluptobubaknum": 5,
-                "itemrandomdmg": 0,
-                "bubaci": [
-                    "Animal_dbo_raptorB_BABY",
-                    "Animal_dbo_raptorB_BABY",
-                    "Animal_dbo_raptorB_ADULT"
+            "bubaknum": 3,
+            "onlyfilluptobubaknum": 5,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Animal_dbo_raptorB_BABY",
+                "Animal_dbo_raptorB_BABY",
+                "Animal_dbo_raptorB_ADULT"
             ]
         },
         {
             "name": "Sandy Bay",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "5717.27 3.55051 8006.47",
             "triggermins": "",
             "triggermaxs": "",
@@ -1401,19 +1395,18 @@
                 "5717.27 3.55051 8006.47"
             ],
             "spawnradius": 30.0,
-              "bubaknum": 3,
-                "onlyfilluptobubaknum": 5,
-                "itemrandomdmg": 0,
-                "bubaci": [
-                    "Animal_dbo_raptorB_BABY",
-                    "Animal_dbo_raptorB_BABY",
-                    "Animal_dbo_raptorB_ADULT"
+            "bubaknum": 3,
+            "onlyfilluptobubaknum": 5,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Animal_dbo_raptorB_BABY",
+                "Animal_dbo_raptorB_BABY",
+                "Animal_dbo_raptorB_ADULT"
             ]
         },
         {
             "name": "greenville",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "4444.74 17.7635 1600.06",
             "triggermins": "",
             "triggermaxs": "",
@@ -1427,19 +1420,18 @@
                 "4444.74 17.7635 1600.06"
             ],
             "spawnradius": 30.0,
-              "bubaknum": 2,
-                "onlyfilluptobubaknum": 2,
-                "itemrandomdmg": 0,
-                "bubaci": [
-                    "Animal_dbo_raptorB_BABY",
-                    "Animal_dbo_raptorB_BABY",
-                    "Animal_dbo_raptorB_ADULT"
+            "bubaknum": 2,
+            "onlyfilluptobubaknum": 2,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Animal_dbo_raptorB_BABY",
+                "Animal_dbo_raptorB_BABY",
+                "Animal_dbo_raptorB_ADULT"
             ]
         },
         {
             "name": "south swamp",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "3608.9 13.8692 7708.78",
             "triggermins": "",
             "triggermaxs": "",
@@ -1453,19 +1445,18 @@
                 "3608.9 13.8692 7708.78"
             ],
             "spawnradius": 30.0,
-              "bubaknum": 6,
-                "onlyfilluptobubaknum": 6,
-                "itemrandomdmg": 0,
-                "bubaci": [
-                    "Animal_dbo_raptorB_BABY",
-                    "Animal_dbo_raptorB_BABY",
-                    "Animal_dbo_raptorB_ADULT"
+            "bubaknum": 6,
+            "onlyfilluptobubaknum": 6,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Animal_dbo_raptorB_BABY",
+                "Animal_dbo_raptorB_BABY",
+                "Animal_dbo_raptorB_ADULT"
             ]
         },
         {
             "name": "old town",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "2580.44 73.9026 9100.18",
             "triggermins": "",
             "triggermaxs": "",
@@ -1479,19 +1470,18 @@
                 "2580.44 73.9026 9100.18"
             ],
             "spawnradius": 30.0,
-              "bubaknum": 6,
-                "onlyfilluptobubaknum": 6,
-                "itemrandomdmg": 0,
-                "bubaci": [
-                    "Animal_dbo_raptorB_BABY",
-                    "Animal_dbo_raptorB_BABY",
-                    "Animal_dbo_raptorB_ADULT"
+            "bubaknum": 6,
+            "onlyfilluptobubaknum": 6,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Animal_dbo_raptorB_BABY",
+                "Animal_dbo_raptorB_BABY",
+                "Animal_dbo_raptorB_ADULT"
             ]
         },
         {
             "name": "portland",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "6395.97 47.9365 13824.6",
             "triggermins": "",
             "triggermaxs": "",
@@ -1505,20 +1495,19 @@
                 "6395.97 47.9365 13824.6"
             ],
             "spawnradius": 30.0,
-              "bubaknum": 6,
-                "onlyfilluptobubaknum": 6,
-                "itemrandomdmg": 0,
-                "bubaci": [
-                    "Animal_dbo_raptorB_BABY",
-                    "Animal_dbo_raptorB_BABY",
-                    "Animal_dbo_raptorblue",
-                    "Animal_dbo_raptorB_ADULT"
+            "bubaknum": 6,
+            "onlyfilluptobubaknum": 6,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Animal_dbo_raptorB_BABY",
+                "Animal_dbo_raptorB_BABY",
+                "Animal_dbo_raptorblue",
+                "Animal_dbo_raptorB_ADULT"
             ]
         },
         {
             "name": "swanville",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "5077.75 17.9006 12481.8",
             "triggermins": "",
             "triggermaxs": "",
@@ -1532,20 +1521,19 @@
                 "5077.75 17.9006 12481.8"
             ],
             "spawnradius": 30.0,
-              "bubaknum": 6,
-                "onlyfilluptobubaknum": 6,
-                "itemrandomdmg": 0,
-                "bubaci": [
-                    "Animal_dbo_raptorB_BABY",
-                    "Animal_dbo_raptorB_BABY",
-                    "Animal_dbo_raptorblue",
-                    "Animal_dbo_raptorB_ADULT"
+            "bubaknum": 6,
+            "onlyfilluptobubaknum": 6,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Animal_dbo_raptorB_BABY",
+                "Animal_dbo_raptorB_BABY",
+                "Animal_dbo_raptorblue",
+                "Animal_dbo_raptorB_ADULT"
             ]
         },
         {
             "name": "mountainville east",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "7591.97 69.124 9159.27",
             "triggermins": "",
             "triggermaxs": "",
@@ -1559,19 +1547,18 @@
                 "7591.97 69.124 9159.27"
             ],
             "spawnradius": 30.0,
-              "bubaknum": 6,
-                "onlyfilluptobubaknum": 6,
-                "itemrandomdmg": 0,
-                "bubaci": [
-                    "Animal_dbo_trex_BABY",
-                    "Animal_dbo_raptorB_BABY",                    
-                    "Animal_dbo_raptorB_ADULT"
+            "bubaknum": 6,
+            "onlyfilluptobubaknum": 6,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Animal_dbo_trex_BABY",
+                "Animal_dbo_raptorB_BABY",
+                "Animal_dbo_raptorB_ADULT"
             ]
         },
         {
             "name": "barronfall",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "7559.54 123.91 10351.8",
             "triggermins": "",
             "triggermaxs": "",
@@ -1585,19 +1572,18 @@
                 "7559.54 123.91 10351.8"
             ],
             "spawnradius": 30.0,
-              "bubaknum": 6,
-                "onlyfilluptobubaknum": 6,
-                "itemrandomdmg": 0,
-                "bubaci": [
-                    "Animal_dbo_trex_BABY",                    
-                    "Animal_dbo_raptorblue",
-                    "Animal_dbo_raptorB_ADULT"
+            "bubaknum": 6,
+            "onlyfilluptobubaknum": 6,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Animal_dbo_trex_BABY",
+                "Animal_dbo_raptorblue",
+                "Animal_dbo_raptorB_ADULT"
             ]
         },
         {
             "name": "North Race Track",
             "workinghours": "0-24",
-            "triggerdependency": [],
             "triggerpos": "9351.58 35.5532 12649.7",
             "triggermins": "",
             "triggermaxs": "",
@@ -1611,13 +1597,13 @@
                 "9351.58 35.5532 12649.7"
             ],
             "spawnradius": 30.0,
-              "bubaknum": 6,
-                "onlyfilluptobubaknum": 6,
-                "itemrandomdmg": 0,
-                "bubaci": [
-                    "Animal_dbo_trex_BABY",                    
-                    "Animal_dbo_raptorblue",
-                    "Animal_dbo_raptorB_ADULT"
+            "bubaknum": 6,
+            "onlyfilluptobubaknum": 6,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Animal_dbo_trex_BABY",
+                "Animal_dbo_raptorblue",
+                "Animal_dbo_raptorB_ADULT"
             ]
         },
         {
@@ -1714,6 +1700,5 @@
                 "tmane_fastlurk"
             ]
         }
-		
     ]
 }

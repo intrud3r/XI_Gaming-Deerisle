@@ -1,0 +1,39 @@
+{
+    "VERSION": "1.7",
+    "SERVERNAME": "Welcome to a server hosted by XI Gaming",
+    "LOGLEVEL": 1,
+    "BUTTON1NAME": "DISCORD",
+    "BUTTON1LINK": "https://discord.gg/Sy6FA7wRnr",
+    "BUTTON2NAME": "WEBSITE",
+    "BUTTON2LINK": "https://www.xtremeidiots.com/",
+    "BUTTON3NAME": "DONATE",
+    "BUTTON3LINK": "https://www.paypal.com/donate/?hosted_button_id=KYN934A3Z3X24",
+    "DISPLAYPLAYERINFO": 1,
+    "DISPLAYPLAYERTAB": 1,
+    "DISPLAYPLAYERLIST": 1,
+    "DISPLAYPLAYERPOSITION": 1,
+    "DISPLAYCRAFTTAB": 1,
+    "DISPLAYCURRENCY": 1,
+    "CURRENCYNAME": "ExpansionBanknoteHryvnia",
+    "DISPLAYPLOGO": 1,
+    "LOGOPATH": "set:dayz_gui image:ProgressDayZFull",
+    "LOGO_WIDTH_PERCENTAGE": 87.0,
+    "LOGO_HEIGHT_PERCENTAGE": 83.0,
+    "BUTTONTAB0NAME": "XI Info",
+    "BUTTONTAB1NAME": "Mods",
+    "BUTTONTAB2NAME": "",    
+    "sServerTab0": [
+        "<h1>INFORMATION</h1>",		
+        "<p>Please Join Discord for information</p>",
+		"<p>Trader system is coming</p>",		
+        "<p>This is a PVP Server</p>",        
+        "<p>XI Is a gaming community play with respect to others</p>"
+        
+    ],
+    "sServerTab1": [
+        "<h1>No Mods - this is a test server atm</h1>"       
+                
+       		
+    ],
+    "sServerTab2": []
+}

@@ -1,0 +1,232 @@
+{
+    "Types": [
+        "ALL",
+        "",
+        "Airport",
+        "Hill",
+        "NameCity",
+        "NameLocal"
+    ],
+    "Locations": [
+        {
+            "Type": "Airport",
+            "Name": "Airfield",
+            "Position": [
+                6874.43994140625,
+                0.0,
+                2035.7900390625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Apple orchard",
+            "Position": [
+                4736.68994140625,
+                0.0,
+                1398.010009765625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "NameCity",
+            "Name": "Ares",
+            "Position": [
+                2140.14990234375,
+                0.0,
+                2994.489990234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Cassandra",
+            "Position": [
+                4404.740234375,
+                0.0,
+                7615.080078125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Deadmens Rock",
+            "Position": [
+                1502.5699462890626,
+                0.0,
+                6404.93017578125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Fishers Island",
+            "Position": [
+                4876.7099609375,
+                0.0,
+                2304.409912109375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Fort Eagle",
+            "Position": [
+                6492.0498046875,
+                0.0,
+                6812.83984375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Fort Miden",
+            "Position": [
+                1654.719970703125,
+                0.0,
+                2618.39990234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Fort Yuma",
+            "Position": [
+                1794.6300048828126,
+                0.0,
+                6518.93017578125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Kefka",
+            "Position": [
+                6654.669921875,
+                0.0,
+                3668.780029296875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Marshes",
+            "Position": [
+                7011.0,
+                0.0,
+                3226.97998046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Military transmitting station",
+            "Position": [
+                6328.22021484375,
+                0.0,
+                980.8400268554688
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "NameLocal",
+            "Name": "Mine",
+            "Position": [
+                3011.0400390625,
+                0.0,
+                1226.550048828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Mt. Helikon",
+            "Position": [
+                6617.93994140625,
+                0.0,
+                4738.64013671875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Mt. Lapithas",
+            "Position": [
+                5442.06982421875,
+                0.0,
+                4030.969970703125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Old Castle",
+            "Position": [
+                3454.429931640625,
+                0.0,
+                5287.31005859375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Radiostation",
+            "Position": [
+                5541.14013671875,
+                0.0,
+                4096.60009765625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Reservoir",
+            "Position": [
+                2089.27001953125,
+                0.0,
+                1105.2900390625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "Roblido",
+            "Position": [
+                2581.080078125,
+                0.0,
+                5841.91015625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "",
+            "Name": "South Harbour",
+            "Position": [
+                1969.47998046875,
+                0.0,
+                421.989990234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Toxiczone",
+            "Position": [
+                7528.7001953125,
+                0.0,
+                6804.7001953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Weatherstation",
+            "Position": [
+                2263.489990234375,
+                0.0,
+                6326.259765625
+            ],
+            "Radius": 4.0
+        }
+    ]
+}

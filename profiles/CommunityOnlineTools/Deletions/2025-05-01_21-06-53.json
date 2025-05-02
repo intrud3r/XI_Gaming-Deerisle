@@ -1,0 +1,226 @@
+{
+    "m_IsLocalPosition": 0,
+    "m_Items": [
+        {
+            "m_Classname": "ZmbM_HunterOld_Winter",
+            "m_LocalPosition": [
+                6634.02734375,
+                31.056215286254884,
+                5691.53662109375
+            ],
+            "m_LocalRotation": [
+                -16.251300811767579,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 36
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "ChestHolster",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Animal_dbo_idrex_BABY",
+            "m_LocalPosition": [
+                6465.5849609375,
+                21.598722457885743,
+                6626.39404296875
+            ],
+            "m_LocalRotation": [
+                -94.3053207397461,
+                -0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 800.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 15
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_dbo_trex_BABY",
+            "m_LocalPosition": [
+                6687.28173828125,
+                15.130000114440918,
+                6295.09814453125
+            ],
+            "m_LocalRotation": [
+                -161.66778564453126,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 700.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 15
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_dbo_trex_BABY",
+            "m_LocalPosition": [
+                6846.8095703125,
+                21.98228645324707,
+                6193.5029296875
+            ],
+            "m_LocalRotation": [
+                -76.11827087402344,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 1000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 15
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_dbo_trex_BABY",
+            "m_LocalPosition": [
+                6668.1455078125,
+                15.130000114440918,
+                6255.92431640625
+            ],
+            "m_LocalRotation": [
+                -172.71139526367188,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 912.3887939453125,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 15
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_dbo_trex_BABY",
+            "m_LocalPosition": [
+                6685.9140625,
+                15.130000114440918,
+                6300.90625
+            ],
+            "m_LocalRotation": [
+                37.059505462646487,
+                -0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 1000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 15
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_dbo_trex_BABY",
+            "m_LocalPosition": [
+                6675.2841796875,
+                15.130000114440918,
+                6282.3193359375
+            ],
+            "m_LocalRotation": [
+                -135.03688049316407,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 1000.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 15
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "Animal_dbo_raptor_BABY",
+            "m_LocalPosition": [
+                6316.8857421875,
+                20.393709182739259,
+                6521.384765625
+            ],
+            "m_LocalRotation": [
+                163.3585205078125,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 350.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 15
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ZmbM_PolicemanSpecForce_Heavy",
+            "m_LocalPosition": [
+                8326.126953125,
+                5.170000076293945,
+                8896.7119140625
+            ],
+            "m_LocalRotation": [
+                -41.62612533569336,
+                0.0,
+                0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 36
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "ZmbM_PolicemanSpecForce_Heavy",
+            "m_LocalPosition": [
+                5800.8994140625,
+                9.95175552368164,
+                8326.2978515625
+            ],
+            "m_LocalRotation": [
+                0.04423465207219124,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 36
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

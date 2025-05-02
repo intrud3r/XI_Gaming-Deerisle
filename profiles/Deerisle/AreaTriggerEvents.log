@@ -1,0 +1,1022 @@
+2025-05-01T16:31:27Z [AreaTriggerEvents] Selected Filename AreaTriggerEvents.json
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger ArcticCrypt at 15621 231.4 14845 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger ArcticCrypt2 at 15640 258.6 14828 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger ArcticCrypt3 at 15642 208.9 14788 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger KMUCMain at 7059 573.5 11620 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger KMUCMainBottom at 7249 224.8 11617 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger TempleBridgeJump at 371 49.6 526 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger TempleOutsideTop1 at 739.5 38 483 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger TempleOutsideTop2 at 670 49.5 306 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger TempleWolfTrap at 591 14.3 390 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger TempleInside1 at 865 19.2 410 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger TempleInside2 at 828 38 484 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger TempleHammerTrigger at 366 54.3 868 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger TemplePartB1 at 405 130 1517 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger TemplePartB2 at 417 2.4 1591 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger Crater Island South East at 15291.40 27.45 1411.35 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger Crater Island South East at 14822.59 69.64 1903.43 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger Crater Island South at 14009 65.61 1298.55 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger Crater Island South West at 12978.61 21.11 1503.33 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger Crater Island South West at 12138.28 12.22 2183.42 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger Crater Island South West at 12473.17 31.96 3050.91 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger Crater Island Central 2 at 14398.11 87.88 2986.32 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger Crater Island Central 3 at 14143 7.58 3801.37 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger Crater Island North 1 at 15734.83 9.45 4389.35 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger Crater Island North 2 at 15692.18 22.85 4771.29 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger Crater Island North 3 at 15758.16 22.24 5104.53 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger Unnamed Island 1 at 14058.38 12.01 5355.95 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger Unnamed Island 2 at 13393.62 100.99 5759.29 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger Unnamed Island 3 at 12791.41 51.15 5647.28 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger Unnamed Island 4 at 13992.50 82.24 6177.50 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger Unnamed Island 5 at 13490.29 18.59 6624.02 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger Unnamed Island 6 at 12798.23 22.04 7373.24 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger Unnamed Island 7 at 11570.40 80.84 8106.52 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger Unnamed Island 8 at 10401.73 24.87 7908.41 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger Unnamed Island 9 at 9851.05 8.94 7989.76 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger Unnamed Island 10 at 9059.41 34.66 7796.29 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger Unnamed Island 11 at 7788.75 14.34 7783.41 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger Unnamed Island 12 at 9021.87 11.40 7236.39 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger Unnamed Island 13 at 10056 32.529617 6727.029785 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger Baby Rex Crater Military at 14150.97 137.48 2629.55 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger Big Rex Mine at 11122.23 40.97 2270.50 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger Big Rex Area 42 at 13399.66 12.95 9878.90 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger Paris Front Raptors at 3073.83 22.63 4023.27 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger Sunken City Raptors at 14135.31 2.51 6502.84 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger Unnamed Island 13 at 10056 32.529617 6727.029785 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger KMUC at 7256.43 601.582 11727.1 ori: 0 0 0
+2025-05-01T16:31:27Z [AreaTriggerEvents] Created trigger KMUC2 at 7180.9 587.929 11612.6 ori: 0 0 0
+2025-05-01T16:39:59Z [AreaTriggerEvents] Selected Filename AreaTriggerEvents - Copy.json
+2025-05-01T16:39:59Z [AreaTriggerEvents] Created trigger ArcticCrypt at 15621 231.4 14845 ori: 0 0 0
+2025-05-01T16:39:59Z [AreaTriggerEvents] Created trigger ArcticCrypt2 at 15640 258.6 14828 ori: 0 0 0
+2025-05-01T16:39:59Z [AreaTriggerEvents] Created trigger ArcticCrypt3 at 15642 208.9 14788 ori: 0 0 0
+2025-05-01T16:39:59Z [AreaTriggerEvents] Created trigger KMUCMain at 7059 573.5 11620 ori: 0 0 0
+2025-05-01T16:39:59Z [AreaTriggerEvents] Created trigger KMUCMainBottom at 7249 224.8 11617 ori: 0 0 0
+2025-05-01T16:39:59Z [AreaTriggerEvents] Created trigger TempleBridgeJump at 371 49.6 526 ori: 0 0 0
+2025-05-01T16:39:59Z [AreaTriggerEvents] Created trigger TempleOutsideTop1 at 739.5 38 483 ori: 0 0 0
+2025-05-01T16:39:59Z [AreaTriggerEvents] Created trigger TempleOutsideTop2 at 670 49.5 306 ori: 0 0 0
+2025-05-01T16:39:59Z [AreaTriggerEvents] Created trigger TempleWolfTrap at 591 14.3 390 ori: 0 0 0
+2025-05-01T16:39:59Z [AreaTriggerEvents] Created trigger TempleInside1 at 865 19.2 410 ori: 0 0 0
+2025-05-01T16:39:59Z [AreaTriggerEvents] Created trigger TempleInside2 at 828 38 484 ori: 0 0 0
+2025-05-01T16:39:59Z [AreaTriggerEvents] Created trigger TempleHammerTrigger at 366 54.3 868 ori: 0 0 0
+2025-05-01T16:39:59Z [AreaTriggerEvents] Created trigger TemplePartB1 at 405 130 1517 ori: 0 0 0
+2025-05-01T16:39:59Z [AreaTriggerEvents] Created trigger TemplePartB2 at 417 2.4 1591 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger ArcticCrypt at 15621 231.4 14845 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger ArcticCrypt2 at 15640 258.6 14828 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger ArcticCrypt3 at 15642 208.9 14788 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger KMUCMain at 7059 573.5 11620 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger KMUCMainBottom at 7249 224.8 11617 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger TempleBridgeJump at 371 49.6 526 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger TempleOutsideTop1 at 739.5 38 483 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger TempleOutsideTop2 at 670 49.5 306 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger TempleWolfTrap at 591 14.3 390 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger TempleInside1 at 865 19.2 410 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger TempleInside2 at 828 38 484 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger TempleHammerTrigger at 366 54.3 868 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger TemplePartB1 at 405 130 1517 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger TemplePartB2 at 417 2.4 1591 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger Crater Island South East at 15291.40 27.45 1411.35 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger Crater Island South East at 14822.59 69.64 1903.43 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger Crater Island South at 14009 65.61 1298.55 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger Crater Island South West at 12978.61 21.11 1503.33 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger Crater Island South West at 12138.28 12.22 2183.42 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger Crater Island South West at 12473.17 31.96 3050.91 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger Crater Island Central 2 at 14398.11 87.88 2986.32 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger Crater Island Central 3 at 14143 7.58 3801.37 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger Crater Island North 1 at 15734.83 9.45 4389.35 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger Crater Island North 2 at 15692.18 22.85 4771.29 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger Crater Island North 3 at 15758.16 22.24 5104.53 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger Unnamed Island 1 at 14058.38 12.01 5355.95 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger Unnamed Island 2 at 13393.62 100.99 5759.29 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger Unnamed Island 3 at 12791.41 51.15 5647.28 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger Unnamed Island 4 at 13992.50 82.24 6177.50 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger Unnamed Island 5 at 13490.29 18.59 6624.02 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger Unnamed Island 6 at 12798.23 22.04 7373.24 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger Unnamed Island 7 at 11570.40 80.84 8106.52 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger Unnamed Island 8 at 10401.73 24.87 7908.41 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger Unnamed Island 9 at 9851.05 8.94 7989.76 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger Unnamed Island 10 at 9059.41 34.66 7796.29 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger Unnamed Island 11 at 7788.75 14.34 7783.41 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger Unnamed Island 12 at 9021.87 11.40 7236.39 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger Unnamed Island 13 at 10056 32.529617 6727.029785 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger Baby Rex Crater Military at 14150.97 137.48 2629.55 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger Big Rex Mine at 11122.23 40.97 2270.50 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger Big Rex Area 42 at 13399.66 12.95 9878.90 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger Paris Front Raptors at 3073.83 22.63 4023.27 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger Sunken City Raptors at 14135.31 2.51 6502.84 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger Unnamed Island 13 at 10056 32.529617 6727.029785 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger KMUC at 7256.43 601.582 11727.1 ori: 0 0 0
+2025-05-01T17:53:22Z [AreaTriggerEvents] Created trigger KMUC2 at 7180.9 587.929 11612.6 ori: 0 0 0
+2025-05-01T19:09:45Z [AreaTriggerEvents] Mia triggered Big Rex Area 42
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger ArcticCrypt at 15621 231.4 14845 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger ArcticCrypt2 at 15640 258.6 14828 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger ArcticCrypt3 at 15642 208.9 14788 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger KMUCMain at 7059 573.5 11620 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger KMUCMainBottom at 7249 224.8 11617 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger TempleBridgeJump at 371 49.6 526 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger TempleOutsideTop1 at 739.5 38 483 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger TempleOutsideTop2 at 670 49.5 306 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger TempleWolfTrap at 591 14.3 390 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger TempleInside1 at 865 19.2 410 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger TempleInside2 at 828 38 484 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger TempleHammerTrigger at 366 54.3 868 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger TemplePartB1 at 405 130 1517 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger TemplePartB2 at 417 2.4 1591 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger Crater Island South East at 15291.40 27.45 1411.35 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger Crater Island South East at 14822.59 69.64 1903.43 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger Crater Island South at 14009 65.61 1298.55 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger Crater Island South West at 12978.61 21.11 1503.33 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger Crater Island South West at 12138.28 12.22 2183.42 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger Crater Island South West at 12473.17 31.96 3050.91 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger Crater Island Central 2 at 14398.11 87.88 2986.32 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger Crater Island Central 3 at 14143 7.58 3801.37 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger Crater Island North 1 at 15734.83 9.45 4389.35 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger Crater Island North 2 at 15692.18 22.85 4771.29 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger Crater Island North 3 at 15758.16 22.24 5104.53 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger Unnamed Island 1 at 14058.38 12.01 5355.95 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger Unnamed Island 2 at 13393.62 100.99 5759.29 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger Unnamed Island 3 at 12791.41 51.15 5647.28 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger Unnamed Island 4 at 13992.50 82.24 6177.50 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger Unnamed Island 5 at 13490.29 18.59 6624.02 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger Unnamed Island 6 at 12798.23 22.04 7373.24 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger Unnamed Island 7 at 11570.40 80.84 8106.52 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger Unnamed Island 8 at 10401.73 24.87 7908.41 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger Unnamed Island 9 at 9851.05 8.94 7989.76 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger Unnamed Island 10 at 9059.41 34.66 7796.29 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger Unnamed Island 11 at 7788.75 14.34 7783.41 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger Unnamed Island 12 at 9021.87 11.40 7236.39 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger Unnamed Island 13 at 10056 32.529617 6727.029785 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger Baby Rex Crater Military at 14150.97 137.48 2629.55 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger Big Rex Mine at 11122.23 40.97 2270.50 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger Big Rex Area 42 at 13399.66 12.95 9878.90 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger Paris Front Raptors at 3073.83 22.63 4023.27 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger Sunken City Raptors at 14135.31 2.51 6502.84 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger Unnamed Island 13 at 10056 32.529617 6727.029785 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger KMUC at 7256.43 601.582 11727.1 ori: 0 0 0
+2025-05-01T20:15:56Z [AreaTriggerEvents] Created trigger KMUC2 at 7180.9 587.929 11612.6 ori: 0 0 0
+2025-05-01T22:43:04Z [AreaTriggerEvents] OverKill triggered Unnamed Island 12
+2025-05-01T23:10:39Z [AreaTriggerEvents] OverKill triggered Crater Island North 2
+2025-05-01T23:10:43Z [AreaTriggerEvents] OverKill triggered Crater Island North 3
+2025-05-01T23:23:30Z [AreaTriggerEvents] OverKill triggered Crater Island North 1
+2025-05-02T00:04:59Z [AreaTriggerEvents] SirTrippy triggered Big Rex Area 42
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger ArcticCrypt at 15621 231.4 14845 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger ArcticCrypt2 at 15640 258.6 14828 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger ArcticCrypt3 at 15642 208.9 14788 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger KMUCMain at 7059 573.5 11620 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger KMUCMainBottom at 7249 224.8 11617 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger TempleBridgeJump at 371 49.6 526 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger TempleOutsideTop1 at 739.5 38 483 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger TempleOutsideTop2 at 670 49.5 306 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger TempleWolfTrap at 591 14.3 390 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger TempleInside1 at 865 19.2 410 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger TempleInside2 at 828 38 484 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger TempleHammerTrigger at 366 54.3 868 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger TemplePartB1 at 405 130 1517 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger TemplePartB2 at 417 2.4 1591 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger Crater Island South East at 15291.40 27.45 1411.35 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger Crater Island South East at 14822.59 69.64 1903.43 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger Crater Island South at 14009 65.61 1298.55 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger Crater Island South West at 12978.61 21.11 1503.33 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger Crater Island South West at 12138.28 12.22 2183.42 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger Crater Island South West at 12473.17 31.96 3050.91 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger Crater Island Central 2 at 14398.11 87.88 2986.32 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger Crater Island Central 3 at 14143 7.58 3801.37 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger Crater Island North 1 at 15734.83 9.45 4389.35 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger Crater Island North 2 at 15692.18 22.85 4771.29 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger Crater Island North 3 at 15758.16 22.24 5104.53 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger Unnamed Island 1 at 14058.38 12.01 5355.95 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger Unnamed Island 2 at 13393.62 100.99 5759.29 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger Unnamed Island 3 at 12791.41 51.15 5647.28 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger Unnamed Island 4 at 13992.50 82.24 6177.50 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger Unnamed Island 5 at 13490.29 18.59 6624.02 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger Unnamed Island 6 at 12798.23 22.04 7373.24 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger Unnamed Island 7 at 11570.40 80.84 8106.52 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger Unnamed Island 8 at 10401.73 24.87 7908.41 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger Unnamed Island 9 at 9851.05 8.94 7989.76 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger Unnamed Island 10 at 9059.41 34.66 7796.29 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger Unnamed Island 11 at 7788.75 14.34 7783.41 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger Unnamed Island 12 at 9021.87 11.40 7236.39 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger Unnamed Island 13 at 10056 32.529617 6727.029785 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger Baby Rex Crater Military at 14150.97 137.48 2629.55 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger Big Rex Mine at 11122.23 40.97 2270.50 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger Big Rex Area 42 at 13399.66 12.95 9878.90 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger Paris Front Raptors at 3073.83 22.63 4023.27 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger Sunken City Raptors at 14135.31 2.51 6502.84 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger Unnamed Island 13 at 10056 32.529617 6727.029785 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger KMUC at 7256.43 601.582 11727.1 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger KMUC2 at 7180.9 587.929 11612.6 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger CampWolf at 5582.96 15.1452 1184.38 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger Road to Warren at 5606.62 36.1486 4942.04 ori: 0 0 0
+2025-05-02T00:15:48Z [AreaTriggerEvents] Created trigger RCFI Swamp East at 3912.59 13.5082 8986.44 ori: 0 0 0
+2025-05-02T00:34:49Z [AreaTriggerEvents] TK triggered CampWolf
+2025-05-02T00:53:12Z [AreaTriggerEvents] OverKill triggered KMUC
+2025-05-02T00:56:31Z [AreaTriggerEvents] OverKill triggered KMUC2
+2025-05-02T01:08:13Z [AreaTriggerEvents] SirTrippy triggered KMUCMain
+2025-05-02T01:42:39Z [AreaTriggerEvents] SirTrippy triggered KMUCMainBottom
+2025-05-02T02:01:31Z [AreaTriggerEvents] SirTrippy triggered KMUC
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger ArcticCrypt at 15621 231.4 14845 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger ArcticCrypt2 at 15640 258.6 14828 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger ArcticCrypt3 at 15642 208.9 14788 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger KMUCMain at 7059 573.5 11620 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger KMUCMainBottom at 7249 224.8 11617 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger TempleBridgeJump at 371 49.6 526 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger TempleOutsideTop1 at 739.5 38 483 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger TempleOutsideTop2 at 670 49.5 306 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger TempleWolfTrap at 591 14.3 390 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger TempleInside1 at 865 19.2 410 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger TempleInside2 at 828 38 484 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger TempleHammerTrigger at 366 54.3 868 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger TemplePartB1 at 405 130 1517 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger TemplePartB2 at 417 2.4 1591 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger Crater Island South East at 15291.40 27.45 1411.35 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger Crater Island South East at 14822.59 69.64 1903.43 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger Crater Island South at 14009 65.61 1298.55 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger Crater Island South West at 12978.61 21.11 1503.33 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger Crater Island South West at 12138.28 12.22 2183.42 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger Crater Island South West at 12473.17 31.96 3050.91 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger Crater Island Central 2 at 14398.11 87.88 2986.32 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger Crater Island Central 3 at 14143 7.58 3801.37 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger Crater Island North 1 at 15734.83 9.45 4389.35 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger Crater Island North 2 at 15692.18 22.85 4771.29 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger Crater Island North 3 at 15758.16 22.24 5104.53 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger Unnamed Island 1 at 14058.38 12.01 5355.95 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger Unnamed Island 2 at 13393.62 100.99 5759.29 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger Unnamed Island 3 at 12791.41 51.15 5647.28 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger Unnamed Island 4 at 13992.50 82.24 6177.50 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger Unnamed Island 5 at 13490.29 18.59 6624.02 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger Unnamed Island 6 at 12798.23 22.04 7373.24 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger Unnamed Island 7 at 11570.40 80.84 8106.52 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger Unnamed Island 8 at 10401.73 24.87 7908.41 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger Unnamed Island 9 at 9851.05 8.94 7989.76 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger Unnamed Island 10 at 9059.41 34.66 7796.29 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger Unnamed Island 11 at 7788.75 14.34 7783.41 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger Unnamed Island 12 at 9021.87 11.40 7236.39 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger Unnamed Island 13 at 10056 32.529617 6727.029785 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger Baby Rex Crater Military at 14150.97 137.48 2629.55 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger Big Rex Mine at 11122.23 40.97 2270.50 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger Big Rex Area 42 at 13399.66 12.95 9878.90 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger Paris Front Raptors at 3073.83 22.63 4023.27 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger Sunken City Raptors at 14135.31 2.51 6502.84 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger Unnamed Island 13 at 10056 32.529617 6727.029785 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger KMUC at 7256.43 601.582 11727.1 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger KMUC2 at 7180.9 587.929 11612.6 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger CampWolf at 5582.96 15.1452 1184.38 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger Road to Warren at 5606.62 36.1486 4942.04 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger RCFI Swamp East at 3912.59 13.5082 8986.44 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger OLD FIELD WEST MOUNTAIN at 5923.26 70.1457 6725.85 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger Sandy Bay at 5717.27 3.55051 8006.47 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger greenville at 4444.74 17.7635 1600.06 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger south swamp at 3608.9 13.8692 7708.78 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger old town at 2580.44 73.9026 9100.18 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger portland at 6395.97 47.9365 13824.6 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger swanville at 5077.75 17.9006 12481.8 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger mountainville east at 7591.97 69.124 9159.27 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger barronfall at 7559.54 123.91 10351.8 ori: 0 0 0
+2025-05-02T08:16:27Z [AreaTriggerEvents] Created trigger North Race Track at 9351.58 35.5532 12649.7 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger ArcticCrypt at 15621 231.4 14845 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger ArcticCrypt2 at 15640 258.6 14828 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger ArcticCrypt3 at 15642 208.9 14788 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger KMUCMain at 7059 573.5 11620 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger KMUCMainBottom at 7249 224.8 11617 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger TempleBridgeJump at 371 49.6 526 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger TempleOutsideTop1 at 739.5 38 483 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger TempleOutsideTop2 at 670 49.5 306 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger TempleWolfTrap at 591 14.3 390 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger TempleInside1 at 865 19.2 410 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger TempleInside2 at 828 38 484 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger TempleHammerTrigger at 366 54.3 868 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger TemplePartB1 at 405 130 1517 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger TemplePartB2 at 417 2.4 1591 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger Crater Island South East at 15291.40 27.45 1411.35 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger Crater Island South East at 14822.59 69.64 1903.43 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger Crater Island South at 14009 65.61 1298.55 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger Crater Island South West at 12978.61 21.11 1503.33 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger Crater Island South West at 12138.28 12.22 2183.42 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger Crater Island South West at 12473.17 31.96 3050.91 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger Crater Island Central 2 at 14398.11 87.88 2986.32 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger Crater Island Central 3 at 14143 7.58 3801.37 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger Crater Island North 1 at 15734.83 9.45 4389.35 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger Crater Island North 2 at 15692.18 22.85 4771.29 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger Crater Island North 3 at 15758.16 22.24 5104.53 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger Unnamed Island 1 at 14058.38 12.01 5355.95 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger Unnamed Island 2 at 13393.62 100.99 5759.29 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger Unnamed Island 3 at 12791.41 51.15 5647.28 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger Unnamed Island 4 at 13992.50 82.24 6177.50 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger Unnamed Island 5 at 13490.29 18.59 6624.02 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger Unnamed Island 6 at 12798.23 22.04 7373.24 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger Unnamed Island 7 at 11570.40 80.84 8106.52 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger Unnamed Island 8 at 10401.73 24.87 7908.41 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger Unnamed Island 9 at 9851.05 8.94 7989.76 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger Unnamed Island 10 at 9059.41 34.66 7796.29 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger Unnamed Island 11 at 7788.75 14.34 7783.41 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger Unnamed Island 12 at 9021.87 11.40 7236.39 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger Unnamed Island 13 at 10056 32.529617 6727.029785 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger Baby Rex Crater Military at 14150.97 137.48 2629.55 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger Big Rex Mine at 11122.23 40.97 2270.50 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger Big Rex Area 42 at 13399.66 12.95 9878.90 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger Paris Front Raptors at 3073.83 22.63 4023.27 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger Sunken City Raptors at 14135.31 2.51 6502.84 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger Unnamed Island 13 at 10056 32.529617 6727.029785 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger KMUC at 7256.43 601.582 11727.1 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger KMUC2 at 7180.9 587.929 11612.6 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger CampWolf at 5582.96 15.1452 1184.38 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger Road to Warren at 5606.62 36.1486 4942.04 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger RCFI Swamp East at 3912.59 13.5082 8986.44 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger OLD FIELD WEST MOUNTAIN at 5923.26 70.1457 6725.85 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger Sandy Bay at 5717.27 3.55051 8006.47 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger greenville at 4444.74 17.7635 1600.06 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger south swamp at 3608.9 13.8692 7708.78 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger old town at 2580.44 73.9026 9100.18 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger portland at 6395.97 47.9365 13824.6 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger swanville at 5077.75 17.9006 12481.8 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger mountainville east at 7591.97 69.124 9159.27 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger barronfall at 7559.54 123.91 10351.8 ori: 0 0 0
+2025-05-02T12:16:00Z [AreaTriggerEvents] Created trigger North Race Track at 9351.58 35.5532 12649.7 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger ArcticCrypt at 15621 231.4 14845 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger ArcticCrypt2 at 15640 258.6 14828 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger ArcticCrypt3 at 15642 208.9 14788 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger KMUCMain at 7059 573.5 11620 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger KMUCMainBottom at 7249 224.8 11617 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger TempleBridgeJump at 371 49.6 526 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger TempleOutsideTop1 at 739.5 38 483 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger TempleOutsideTop2 at 670 49.5 306 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger TempleWolfTrap at 591 14.3 390 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger TempleInside1 at 865 19.2 410 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger TempleInside2 at 828 38 484 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger TempleHammerTrigger at 366 54.3 868 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger TemplePartB1 at 405 130 1517 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger TemplePartB2 at 417 2.4 1591 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger Crater Island South East at 15291.40 27.45 1411.35 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger Crater Island South East at 14822.59 69.64 1903.43 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger Crater Island South at 14009 65.61 1298.55 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger Crater Island South West at 12978.61 21.11 1503.33 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger Crater Island South West at 12138.28 12.22 2183.42 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger Crater Island South West at 12473.17 31.96 3050.91 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger Crater Island Central 2 at 14398.11 87.88 2986.32 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger Crater Island Central 3 at 14143 7.58 3801.37 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger Crater Island North 1 at 15734.83 9.45 4389.35 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger Crater Island North 2 at 15692.18 22.85 4771.29 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger Crater Island North 3 at 15758.16 22.24 5104.53 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger Unnamed Island 1 at 14058.38 12.01 5355.95 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger Unnamed Island 2 at 13393.62 100.99 5759.29 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger Unnamed Island 3 at 12791.41 51.15 5647.28 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger Unnamed Island 4 at 13992.50 82.24 6177.50 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger Unnamed Island 5 at 13490.29 18.59 6624.02 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger Unnamed Island 6 at 12798.23 22.04 7373.24 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger Unnamed Island 7 at 11570.40 80.84 8106.52 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger Unnamed Island 8 at 10401.73 24.87 7908.41 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger Unnamed Island 9 at 9851.05 8.94 7989.76 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger Unnamed Island 10 at 9059.41 34.66 7796.29 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger Unnamed Island 11 at 7788.75 14.34 7783.41 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger Unnamed Island 12 at 9021.87 11.40 7236.39 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger Unnamed Island 13 at 10056 32.529617 6727.029785 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger Baby Rex Crater Military at 14150.97 137.48 2629.55 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger Big Rex Mine at 11122.23 40.97 2270.50 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger Big Rex Area 42 at 13399.66 12.95 9878.90 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger Paris Front Raptors at 3073.83 22.63 4023.27 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger Sunken City Raptors at 14135.31 2.51 6502.84 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger Unnamed Island 13 at 10056 32.529617 6727.029785 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger KMUC at 7256.43 601.582 11727.1 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger KMUC2 at 7180.9 587.929 11612.6 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger CampWolf at 5582.96 15.1452 1184.38 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger Road to Warren at 5606.62 36.1486 4942.04 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger RCFI Swamp East at 3912.59 13.5082 8986.44 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger OLD FIELD WEST MOUNTAIN at 5923.26 70.1457 6725.85 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger Sandy Bay at 5717.27 3.55051 8006.47 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger greenville at 4444.74 17.7635 1600.06 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger south swamp at 3608.9 13.8692 7708.78 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger old town at 2580.44 73.9026 9100.18 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger portland at 6395.97 47.9365 13824.6 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger swanville at 5077.75 17.9006 12481.8 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger mountainville east at 7591.97 69.124 9159.27 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger barronfall at 7559.54 123.91 10351.8 ori: 0 0 0
+2025-05-02T12:29:56Z [AreaTriggerEvents] Created trigger North Race Track at 9351.58 35.5532 12649.7 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger ArcticCrypt at 15621 231.4 14845 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger ArcticCrypt2 at 15640 258.6 14828 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger ArcticCrypt3 at 15642 208.9 14788 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger KMUCMain at 7059 573.5 11620 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger KMUCMainBottom at 7249 224.8 11617 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger TempleBridgeJump at 371 49.6 526 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger TempleOutsideTop1 at 739.5 38 483 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger TempleOutsideTop2 at 670 49.5 306 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger TempleWolfTrap at 591 14.3 390 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger TempleInside1 at 865 19.2 410 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger TempleInside2 at 828 38 484 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger TempleHammerTrigger at 366 54.3 868 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger TemplePartB1 at 405 130 1517 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger TemplePartB2 at 417 2.4 1591 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger Crater Island South East at 15291.40 27.45 1411.35 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger Crater Island South East at 14822.59 69.64 1903.43 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger Crater Island South at 14009 65.61 1298.55 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger Crater Island South West at 12978.61 21.11 1503.33 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger Crater Island South West at 12138.28 12.22 2183.42 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger Crater Island South West at 12473.17 31.96 3050.91 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger Crater Island Central 2 at 14398.11 87.88 2986.32 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger Crater Island Central 3 at 14143 7.58 3801.37 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger Crater Island North 1 at 15734.83 9.45 4389.35 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger Crater Island North 2 at 15692.18 22.85 4771.29 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger Crater Island North 3 at 15758.16 22.24 5104.53 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger Unnamed Island 1 at 14058.38 12.01 5355.95 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger Unnamed Island 2 at 13393.62 100.99 5759.29 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger Unnamed Island 3 at 12791.41 51.15 5647.28 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger Unnamed Island 4 at 13992.50 82.24 6177.50 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger Unnamed Island 5 at 13490.29 18.59 6624.02 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger Unnamed Island 6 at 12798.23 22.04 7373.24 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger Unnamed Island 7 at 11570.40 80.84 8106.52 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger Unnamed Island 8 at 10401.73 24.87 7908.41 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger Unnamed Island 9 at 9851.05 8.94 7989.76 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger Unnamed Island 10 at 9059.41 34.66 7796.29 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger Unnamed Island 11 at 7788.75 14.34 7783.41 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger Unnamed Island 12 at 9021.87 11.40 7236.39 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger Unnamed Island 13 at 10056 32.529617 6727.029785 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger Baby Rex Crater Military at 14150.97 137.48 2629.55 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger Big Rex Mine at 11122.23 40.97 2270.50 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger Big Rex Area 42 at 13399.66 12.95 9878.90 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger Paris Front Raptors at 3073.83 22.63 4023.27 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger Sunken City Raptors at 14135.31 2.51 6502.84 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger Unnamed Island 13 at 10056 32.529617 6727.029785 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger KMUC at 7256.43 601.582 11727.1 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger KMUC2 at 7180.9 587.929 11612.6 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger CampWolf at 5582.96 15.1452 1184.38 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger Road to Warren at 5606.62 36.1486 4942.04 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger RCFI Swamp East at 3912.59 13.5082 8986.44 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger OLD FIELD WEST MOUNTAIN at 5923.26 70.1457 6725.85 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger Sandy Bay at 5717.27 3.55051 8006.47 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger greenville at 4444.74 17.7635 1600.06 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger south swamp at 3608.9 13.8692 7708.78 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger old town at 2580.44 73.9026 9100.18 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger portland at 6395.97 47.9365 13824.6 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger swanville at 5077.75 17.9006 12481.8 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger mountainville east at 7591.97 69.124 9159.27 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger barronfall at 7559.54 123.91 10351.8 ori: 0 0 0
+2025-05-02T12:51:27Z [AreaTriggerEvents] Created trigger North Race Track at 9351.58 35.5532 12649.7 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger ArcticCrypt at 15621 231.4 14845 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger ArcticCrypt2 at 15640 258.6 14828 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger ArcticCrypt3 at 15642 208.9 14788 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger KMUCMain at 7059 573.5 11620 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger KMUCMainBottom at 7249 224.8 11617 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger TempleBridgeJump at 371 49.6 526 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger TempleOutsideTop1 at 739.5 38 483 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger TempleOutsideTop2 at 670 49.5 306 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger TempleWolfTrap at 591 14.3 390 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger TempleInside1 at 865 19.2 410 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger TempleInside2 at 828 38 484 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger TempleHammerTrigger at 366 54.3 868 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger TemplePartB1 at 405 130 1517 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger TemplePartB2 at 417 2.4 1591 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger Crater Island South East at 15291.40 27.45 1411.35 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger Crater Island South East at 14822.59 69.64 1903.43 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger Crater Island South at 14009 65.61 1298.55 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger Crater Island South West at 12978.61 21.11 1503.33 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger Crater Island South West at 12138.28 12.22 2183.42 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger Crater Island South West at 12473.17 31.96 3050.91 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger Crater Island Central 2 at 14398.11 87.88 2986.32 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger Crater Island Central 3 at 14143 7.58 3801.37 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger Crater Island North 1 at 15734.83 9.45 4389.35 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger Crater Island North 2 at 15692.18 22.85 4771.29 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger Crater Island North 3 at 15758.16 22.24 5104.53 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger Unnamed Island 1 at 14058.38 12.01 5355.95 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger Unnamed Island 2 at 13393.62 100.99 5759.29 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger Unnamed Island 3 at 12791.41 51.15 5647.28 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger Unnamed Island 4 at 13992.50 82.24 6177.50 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger Unnamed Island 5 at 13490.29 18.59 6624.02 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger Unnamed Island 6 at 12798.23 22.04 7373.24 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger Unnamed Island 7 at 11570.40 80.84 8106.52 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger Unnamed Island 8 at 10401.73 24.87 7908.41 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger Unnamed Island 9 at 9851.05 8.94 7989.76 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger Unnamed Island 10 at 9059.41 34.66 7796.29 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger Unnamed Island 11 at 7788.75 14.34 7783.41 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger Unnamed Island 12 at 9021.87 11.40 7236.39 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger Unnamed Island 13 at 10056 32.529617 6727.029785 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger Baby Rex Crater Military at 14150.97 137.48 2629.55 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger Big Rex Mine at 11122.23 40.97 2270.50 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger Big Rex Area 42 at 13399.66 12.95 9878.90 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger Paris Front Raptors at 3073.83 22.63 4023.27 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger Sunken City Raptors at 14135.31 2.51 6502.84 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger Unnamed Island 13 at 10056 32.529617 6727.029785 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger KMUC at 7256.43 601.582 11727.1 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger KMUC2 at 7180.9 587.929 11612.6 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger CampWolf at 5582.96 15.1452 1184.38 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger Road to Warren at 5606.62 36.1486 4942.04 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger RCFI Swamp East at 3912.59 13.5082 8986.44 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger OLD FIELD WEST MOUNTAIN at 5923.26 70.1457 6725.85 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger Sandy Bay at 5717.27 3.55051 8006.47 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger greenville at 4444.74 17.7635 1600.06 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger south swamp at 3608.9 13.8692 7708.78 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger old town at 2580.44 73.9026 9100.18 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger portland at 6395.97 47.9365 13824.6 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger swanville at 5077.75 17.9006 12481.8 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger mountainville east at 7591.97 69.124 9159.27 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger barronfall at 7559.54 123.91 10351.8 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger North Race Track at 9351.58 35.5532 12649.7 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger KMUCMain-Mutants at 7059 573.5 11620 ori: 0 0 0
+2025-05-02T13:20:09Z [AreaTriggerEvents] Created trigger KMUCMainBottom-Mutants at 7249 224.8 11617 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger ArcticCrypt at 15621 231.4 14845 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger ArcticCrypt2 at 15640 258.6 14828 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger ArcticCrypt3 at 15642 208.9 14788 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger KMUCMain at 7059 573.5 11620 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger KMUCMainBottom at 7249 224.8 11617 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger TempleBridgeJump at 371 49.6 526 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger TempleOutsideTop1 at 739.5 38 483 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger TempleOutsideTop2 at 670 49.5 306 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger TempleWolfTrap at 591 14.3 390 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger TempleInside1 at 865 19.2 410 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger TempleInside2 at 828 38 484 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger TempleHammerTrigger at 366 54.3 868 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger TemplePartB1 at 405 130 1517 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger TemplePartB2 at 417 2.4 1591 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger Crater Island South East at 15291.40 27.45 1411.35 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger Crater Island South East at 14822.59 69.64 1903.43 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger Crater Island South at 14009 65.61 1298.55 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger Crater Island South West at 12978.61 21.11 1503.33 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger Crater Island South West at 12138.28 12.22 2183.42 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger Crater Island South West at 12473.17 31.96 3050.91 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger Crater Island Central 2 at 14398.11 87.88 2986.32 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger Crater Island Central 3 at 14143 7.58 3801.37 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger Crater Island North 1 at 15734.83 9.45 4389.35 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger Crater Island North 2 at 15692.18 22.85 4771.29 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger Crater Island North 3 at 15758.16 22.24 5104.53 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger Unnamed Island 1 at 14058.38 12.01 5355.95 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger Unnamed Island 2 at 13393.62 100.99 5759.29 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger Unnamed Island 3 at 12791.41 51.15 5647.28 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger Unnamed Island 4 at 13992.50 82.24 6177.50 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger Unnamed Island 5 at 13490.29 18.59 6624.02 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger Unnamed Island 6 at 12798.23 22.04 7373.24 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger Unnamed Island 7 at 11570.40 80.84 8106.52 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger Unnamed Island 8 at 10401.73 24.87 7908.41 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger Unnamed Island 9 at 9851.05 8.94 7989.76 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger Unnamed Island 10 at 9059.41 34.66 7796.29 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger Unnamed Island 11 at 7788.75 14.34 7783.41 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger Unnamed Island 12 at 9021.87 11.40 7236.39 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger Unnamed Island 13 at 10056 32.529617 6727.029785 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger Baby Rex Crater Military at 14150.97 137.48 2629.55 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger Big Rex Mine at 11122.23 40.97 2270.50 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger Big Rex Area 42 at 13399.66 12.95 9878.90 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger Paris Front Raptors at 3073.83 22.63 4023.27 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger Sunken City Raptors at 14135.31 2.51 6502.84 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger Unnamed Island 13 at 10056 32.529617 6727.029785 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger KMUC at 7256.43 601.582 11727.1 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger KMUC2 at 7180.9 587.929 11612.6 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger CampWolf at 5582.96 15.1452 1184.38 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger Road to Warren at 5606.62 36.1486 4942.04 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger RCFI Swamp East at 3912.59 13.5082 8986.44 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger OLD FIELD WEST MOUNTAIN at 5923.26 70.1457 6725.85 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger Sandy Bay at 5717.27 3.55051 8006.47 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger greenville at 4444.74 17.7635 1600.06 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger south swamp at 3608.9 13.8692 7708.78 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger old town at 2580.44 73.9026 9100.18 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger portland at 6395.97 47.9365 13824.6 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger swanville at 5077.75 17.9006 12481.8 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger mountainville east at 7591.97 69.124 9159.27 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger barronfall at 7559.54 123.91 10351.8 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger North Race Track at 9351.58 35.5532 12649.7 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger KMUCMain-Mutants at 7059 573.5 11620 ori: 0 0 0
+2025-05-02T13:40:23Z [AreaTriggerEvents] Created trigger KMUCMainBottom-Mutants at 7249 224.8 11617 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger ArcticCrypt at 15621 231.4 14845 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger ArcticCrypt2 at 15640 258.6 14828 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger ArcticCrypt3 at 15642 208.9 14788 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger KMUCMain at 7059 573.5 11620 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger KMUCMainBottom at 7249 224.8 11617 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger TempleBridgeJump at 371 49.6 526 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger TempleOutsideTop1 at 739.5 38 483 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger TempleOutsideTop2 at 670 49.5 306 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger TempleWolfTrap at 591 14.3 390 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger TempleInside1 at 865 19.2 410 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger TempleInside2 at 828 38 484 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger TempleHammerTrigger at 366 54.3 868 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger TemplePartB1 at 405 130 1517 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger TemplePartB2 at 417 2.4 1591 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger Crater Island South East at 15291.40 27.45 1411.35 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger Crater Island South East at 14822.59 69.64 1903.43 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger Crater Island South at 14009 65.61 1298.55 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger Crater Island South West at 12978.61 21.11 1503.33 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger Crater Island South West at 12138.28 12.22 2183.42 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger Crater Island South West at 12473.17 31.96 3050.91 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger Crater Island Central 2 at 14398.11 87.88 2986.32 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger Crater Island Central 3 at 14143 7.58 3801.37 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger Crater Island North 1 at 15734.83 9.45 4389.35 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger Crater Island North 2 at 15692.18 22.85 4771.29 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger Crater Island North 3 at 15758.16 22.24 5104.53 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger Unnamed Island 1 at 14058.38 12.01 5355.95 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger Unnamed Island 2 at 13393.62 100.99 5759.29 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger Unnamed Island 3 at 12791.41 51.15 5647.28 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger Unnamed Island 4 at 13992.50 82.24 6177.50 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger Unnamed Island 5 at 13490.29 18.59 6624.02 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger Unnamed Island 6 at 12798.23 22.04 7373.24 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger Unnamed Island 7 at 11570.40 80.84 8106.52 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger Unnamed Island 8 at 10401.73 24.87 7908.41 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger Unnamed Island 9 at 9851.05 8.94 7989.76 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger Unnamed Island 10 at 9059.41 34.66 7796.29 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger Unnamed Island 11 at 7788.75 14.34 7783.41 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger Unnamed Island 12 at 9021.87 11.40 7236.39 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger Unnamed Island 13 at 10056 32.529617 6727.029785 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger Baby Rex Crater Military at 14150.97 137.48 2629.55 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger Big Rex Mine at 11122.23 40.97 2270.50 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger Big Rex Area 42 at 13399.66 12.95 9878.90 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger Paris Front Raptors at 3073.83 22.63 4023.27 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger Sunken City Raptors at 14135.31 2.51 6502.84 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger Unnamed Island 13 at 10056 32.529617 6727.029785 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger KMUC at 7256.43 601.582 11727.1 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger KMUC2 at 7180.9 587.929 11612.6 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger CampWolf at 5582.96 15.1452 1184.38 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger Road to Warren at 5606.62 36.1486 4942.04 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger RCFI Swamp East at 3912.59 13.5082 8986.44 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger OLD FIELD WEST MOUNTAIN at 5923.26 70.1457 6725.85 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger Sandy Bay at 5717.27 3.55051 8006.47 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger greenville at 4444.74 17.7635 1600.06 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger south swamp at 3608.9 13.8692 7708.78 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger old town at 2580.44 73.9026 9100.18 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger portland at 6395.97 47.9365 13824.6 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger swanville at 5077.75 17.9006 12481.8 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger mountainville east at 7591.97 69.124 9159.27 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger barronfall at 7559.54 123.91 10351.8 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger North Race Track at 9351.58 35.5532 12649.7 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger KMUCMain-Mutants at 7059 573.5 11620 ori: 0 0 0
+2025-05-02T16:16:38Z [AreaTriggerEvents] Created trigger KMUCMainBottom-Mutants at 7249 224.8 11617 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger ArcticCrypt at 15621 231.4 14845 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger ArcticCrypt2 at 15640 258.6 14828 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger ArcticCrypt3 at 15642 208.9 14788 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger KMUCMain at 7059 573.5 11620 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger KMUCMainBottom at 7249 224.8 11617 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger TempleBridgeJump at 371 49.6 526 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger TempleOutsideTop1 at 739.5 38 483 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger TempleOutsideTop2 at 670 49.5 306 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger TempleWolfTrap at 591 14.3 390 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger TempleInside1 at 865 19.2 410 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger TempleInside2 at 828 38 484 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger TempleHammerTrigger at 366 54.3 868 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger TemplePartB1 at 405 130 1517 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger TemplePartB2 at 417 2.4 1591 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger Crater Island South East at 15291.40 27.45 1411.35 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger Crater Island South East at 14822.59 69.64 1903.43 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger Crater Island South at 14009 65.61 1298.55 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger Crater Island South West at 12978.61 21.11 1503.33 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger Crater Island South West at 12138.28 12.22 2183.42 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger Crater Island South West at 12473.17 31.96 3050.91 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger Crater Island Central 2 at 14398.11 87.88 2986.32 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger Crater Island Central 3 at 14143 7.58 3801.37 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger Crater Island North 1 at 15734.83 9.45 4389.35 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger Crater Island North 2 at 15692.18 22.85 4771.29 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger Crater Island North 3 at 15758.16 22.24 5104.53 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger Unnamed Island 1 at 14058.38 12.01 5355.95 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger Unnamed Island 2 at 13393.62 100.99 5759.29 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger Unnamed Island 3 at 12791.41 51.15 5647.28 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger Unnamed Island 4 at 13992.50 82.24 6177.50 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger Unnamed Island 5 at 13490.29 18.59 6624.02 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger Unnamed Island 6 at 12798.23 22.04 7373.24 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger Unnamed Island 7 at 11570.40 80.84 8106.52 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger Unnamed Island 8 at 10401.73 24.87 7908.41 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger Unnamed Island 9 at 9851.05 8.94 7989.76 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger Unnamed Island 10 at 9059.41 34.66 7796.29 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger Unnamed Island 11 at 7788.75 14.34 7783.41 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger Unnamed Island 12 at 9021.87 11.40 7236.39 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger Unnamed Island 13 at 10056 32.529617 6727.029785 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger Baby Rex Crater Military at 14150.97 137.48 2629.55 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger Big Rex Mine at 11122.23 40.97 2270.50 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger Big Rex Area 42 at 13399.66 12.95 9878.90 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger Paris Front Raptors at 3073.83 22.63 4023.27 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger Sunken City Raptors at 14135.31 2.51 6502.84 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger Unnamed Island 13 at 10056 32.529617 6727.029785 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger KMUC at 7256.43 601.582 11727.1 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger KMUC2 at 7180.9 587.929 11612.6 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger CampWolf at 5582.96 15.1452 1184.38 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger Road to Warren at 5606.62 36.1486 4942.04 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger RCFI Swamp East at 3912.59 13.5082 8986.44 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger OLD FIELD WEST MOUNTAIN at 5923.26 70.1457 6725.85 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger Sandy Bay at 5717.27 3.55051 8006.47 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger greenville at 4444.74 17.7635 1600.06 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger south swamp at 3608.9 13.8692 7708.78 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger old town at 2580.44 73.9026 9100.18 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger portland at 6395.97 47.9365 13824.6 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger swanville at 5077.75 17.9006 12481.8 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger mountainville east at 7591.97 69.124 9159.27 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger barronfall at 7559.54 123.91 10351.8 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger North Race Track at 9351.58 35.5532 12649.7 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger KMUCMain-Mutants at 7059 573.5 11620 ori: 0 0 0
+2025-05-02T16:38:52Z [AreaTriggerEvents] Created trigger KMUCMainBottom-Mutants at 7249 224.8 11617 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger ArcticCrypt at 15621 231.4 14845 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger ArcticCrypt2 at 15640 258.6 14828 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger ArcticCrypt3 at 15642 208.9 14788 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger KMUCMain at 7059 573.5 11620 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger KMUCMainBottom at 7249 224.8 11617 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger TempleBridgeJump at 371 49.6 526 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger TempleOutsideTop1 at 739.5 38 483 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger TempleOutsideTop2 at 670 49.5 306 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger TempleWolfTrap at 591 14.3 390 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger TempleInside1 at 865 19.2 410 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger TempleInside2 at 828 38 484 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger TempleHammerTrigger at 366 54.3 868 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger TemplePartB1 at 405 130 1517 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger TemplePartB2 at 417 2.4 1591 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger Crater Island South East at 15291.40 27.45 1411.35 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger Crater Island South East at 14822.59 69.64 1903.43 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger Crater Island South at 14009 65.61 1298.55 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger Crater Island South West at 12978.61 21.11 1503.33 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger Crater Island South West at 12138.28 12.22 2183.42 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger Crater Island South West at 12473.17 31.96 3050.91 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger Crater Island Central 2 at 14398.11 87.88 2986.32 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger Crater Island Central 3 at 14143 7.58 3801.37 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger Crater Island North 1 at 15734.83 9.45 4389.35 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger Crater Island North 2 at 15692.18 22.85 4771.29 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger Crater Island North 3 at 15758.16 22.24 5104.53 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger Unnamed Island 1 at 14058.38 12.01 5355.95 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger Unnamed Island 2 at 13393.62 100.99 5759.29 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger Unnamed Island 3 at 12791.41 51.15 5647.28 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger Unnamed Island 4 at 13992.50 82.24 6177.50 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger Unnamed Island 5 at 13490.29 18.59 6624.02 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger Unnamed Island 6 at 12798.23 22.04 7373.24 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger Unnamed Island 7 at 11570.40 80.84 8106.52 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger Unnamed Island 8 at 10401.73 24.87 7908.41 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger Unnamed Island 9 at 9851.05 8.94 7989.76 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger Unnamed Island 10 at 9059.41 34.66 7796.29 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger Unnamed Island 11 at 7788.75 14.34 7783.41 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger Unnamed Island 12 at 9021.87 11.40 7236.39 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger Unnamed Island 13 at 10056 32.529617 6727.029785 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger Baby Rex Crater Military at 14150.97 137.48 2629.55 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger Big Rex Mine at 11122.23 40.97 2270.50 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger Big Rex Area 42 at 13399.66 12.95 9878.90 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger Paris Front Raptors at 3073.83 22.63 4023.27 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger Sunken City Raptors at 14135.31 2.51 6502.84 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger Unnamed Island 13 at 10056 32.529617 6727.029785 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger KMUC at 7256.43 601.582 11727.1 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger KMUC2 at 7180.9 587.929 11612.6 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger CampWolf at 5582.96 15.1452 1184.38 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger Road to Warren at 5606.62 36.1486 4942.04 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger RCFI Swamp East at 3912.59 13.5082 8986.44 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger OLD FIELD WEST MOUNTAIN at 5923.26 70.1457 6725.85 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger Sandy Bay at 5717.27 3.55051 8006.47 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger greenville at 4444.74 17.7635 1600.06 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger south swamp at 3608.9 13.8692 7708.78 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger old town at 2580.44 73.9026 9100.18 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger portland at 6395.97 47.9365 13824.6 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger swanville at 5077.75 17.9006 12481.8 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger mountainville east at 7591.97 69.124 9159.27 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger barronfall at 7559.54 123.91 10351.8 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger North Race Track at 9351.58 35.5532 12649.7 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger KMUCMain-Mutants at 7059 573.5 11620 ori: 0 0 0
+2025-05-02T17:39:07Z [AreaTriggerEvents] Created trigger KMUCMainBottom-Mutants at 7249 224.8 11617 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger ArcticCrypt at 15621 231.4 14845 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger ArcticCrypt2 at 15640 258.6 14828 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger ArcticCrypt3 at 15642 208.9 14788 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger KMUCMain at 7059 573.5 11620 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger KMUCMainBottom at 7249 224.8 11617 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger TempleBridgeJump at 371 49.6 526 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger TempleOutsideTop1 at 739.5 38 483 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger TempleOutsideTop2 at 670 49.5 306 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger TempleWolfTrap at 591 14.3 390 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger TempleInside1 at 865 19.2 410 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger TempleInside2 at 828 38 484 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger TempleHammerTrigger at 366 54.3 868 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger TemplePartB1 at 405 130 1517 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger TemplePartB2 at 417 2.4 1591 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger Crater Island South East at 15291.40 27.45 1411.35 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger Crater Island South East at 14822.59 69.64 1903.43 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger Crater Island South at 14009 65.61 1298.55 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger Crater Island South West at 12978.61 21.11 1503.33 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger Crater Island South West at 12138.28 12.22 2183.42 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger Crater Island South West at 12473.17 31.96 3050.91 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger Crater Island Central 2 at 14398.11 87.88 2986.32 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger Crater Island Central 3 at 14143 7.58 3801.37 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger Crater Island North 1 at 15734.83 9.45 4389.35 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger Crater Island North 2 at 15692.18 22.85 4771.29 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger Crater Island North 3 at 15758.16 22.24 5104.53 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger Unnamed Island 1 at 14058.38 12.01 5355.95 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger Unnamed Island 2 at 13393.62 100.99 5759.29 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger Unnamed Island 3 at 12791.41 51.15 5647.28 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger Unnamed Island 4 at 13992.50 82.24 6177.50 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger Unnamed Island 5 at 13490.29 18.59 6624.02 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger Unnamed Island 6 at 12798.23 22.04 7373.24 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger Unnamed Island 7 at 11570.40 80.84 8106.52 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger Unnamed Island 8 at 10401.73 24.87 7908.41 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger Unnamed Island 9 at 9851.05 8.94 7989.76 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger Unnamed Island 10 at 9059.41 34.66 7796.29 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger Unnamed Island 11 at 7788.75 14.34 7783.41 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger Unnamed Island 12 at 9021.87 11.40 7236.39 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger Unnamed Island 13 at 10056 32.529617 6727.029785 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger Baby Rex Crater Military at 14150.97 137.48 2629.55 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger Big Rex Mine at 11122.23 40.97 2270.50 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger Big Rex Area 42 at 13399.66 12.95 9878.90 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger Paris Front Raptors at 3073.83 22.63 4023.27 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger Sunken City Raptors at 14135.31 2.51 6502.84 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger Unnamed Island 13 at 10056 32.529617 6727.029785 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger KMUC at 7256.43 601.582 11727.1 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger KMUC2 at 7180.9 587.929 11612.6 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger CampWolf at 5582.96 15.1452 1184.38 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger Road to Warren at 5606.62 36.1486 4942.04 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger RCFI Swamp East at 3912.59 13.5082 8986.44 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger OLD FIELD WEST MOUNTAIN at 5923.26 70.1457 6725.85 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger Sandy Bay at 5717.27 3.55051 8006.47 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger greenville at 4444.74 17.7635 1600.06 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger south swamp at 3608.9 13.8692 7708.78 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger old town at 2580.44 73.9026 9100.18 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger portland at 6395.97 47.9365 13824.6 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger swanville at 5077.75 17.9006 12481.8 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger mountainville east at 7591.97 69.124 9159.27 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger barronfall at 7559.54 123.91 10351.8 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger North Race Track at 9351.58 35.5532 12649.7 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger KMUCMain-Mutants at 7059 573.5 11620 ori: 0 0 0
+2025-05-02T17:42:10Z [AreaTriggerEvents] Created trigger KMUCMainBottom-Mutants at 7249 224.8 11617 ori: 0 0 0
+2025-05-02T17:47:00Z [AreaTriggerEvents] Intruder triggered North Race Track
+2025-05-02T17:49:17Z [AreaTriggerEvents] Intruder triggered KMUC
+2025-05-02T17:49:17Z [AreaTriggerEvents] Intruder triggered KMUC2
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger ArcticCrypt at 15621 231.4 14845 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger ArcticCrypt2 at 15640 258.6 14828 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger ArcticCrypt3 at 15642 208.9 14788 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger KMUCMain at 7059 573.5 11620 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger KMUCMainBottom at 7249 224.8 11617 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger TempleBridgeJump at 371 49.6 526 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger TempleOutsideTop1 at 739.5 38 483 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger TempleOutsideTop2 at 670 49.5 306 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger TempleWolfTrap at 591 14.3 390 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger TempleInside1 at 865 19.2 410 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger TempleInside2 at 828 38 484 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger TempleHammerTrigger at 366 54.3 868 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger TemplePartB1 at 405 130 1517 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger TemplePartB2 at 417 2.4 1591 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger Crater Island South East at 15291.40 27.45 1411.35 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger Crater Island South East at 14822.59 69.64 1903.43 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger Crater Island South at 14009 65.61 1298.55 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger Crater Island South West at 12978.61 21.11 1503.33 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger Crater Island South West at 12138.28 12.22 2183.42 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger Crater Island South West at 12473.17 31.96 3050.91 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger Crater Island Central 2 at 14398.11 87.88 2986.32 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger Crater Island Central 3 at 14143 7.58 3801.37 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger Crater Island North 1 at 15734.83 9.45 4389.35 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger Crater Island North 2 at 15692.18 22.85 4771.29 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger Crater Island North 3 at 15758.16 22.24 5104.53 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger Unnamed Island 1 at 14058.38 12.01 5355.95 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger Unnamed Island 2 at 13393.62 100.99 5759.29 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger Unnamed Island 3 at 12791.41 51.15 5647.28 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger Unnamed Island 4 at 13992.50 82.24 6177.50 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger Unnamed Island 5 at 13490.29 18.59 6624.02 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger Unnamed Island 6 at 12798.23 22.04 7373.24 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger Unnamed Island 7 at 11570.40 80.84 8106.52 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger Unnamed Island 8 at 10401.73 24.87 7908.41 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger Unnamed Island 9 at 9851.05 8.94 7989.76 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger Unnamed Island 10 at 9059.41 34.66 7796.29 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger Unnamed Island 11 at 7788.75 14.34 7783.41 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger Unnamed Island 12 at 9021.87 11.40 7236.39 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger Unnamed Island 13 at 10056 32.529617 6727.029785 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger Baby Rex Crater Military at 14150.97 137.48 2629.55 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger Big Rex Mine at 11122.23 40.97 2270.50 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger Big Rex Area 42 at 13399.66 12.95 9878.90 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger Paris Front Raptors at 3073.83 22.63 4023.27 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger Sunken City Raptors at 14135.31 2.51 6502.84 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger Unnamed Island 13 at 10056 32.529617 6727.029785 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger KMUC at 7256.43 601.582 11727.1 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger KMUC2 at 7180.9 587.929 11612.6 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger CampWolf at 5582.96 15.1452 1184.38 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger Road to Warren at 5606.62 36.1486 4942.04 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger RCFI Swamp East at 3912.59 13.5082 8986.44 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger OLD FIELD WEST MOUNTAIN at 5923.26 70.1457 6725.85 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger Sandy Bay at 5717.27 3.55051 8006.47 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger greenville at 4444.74 17.7635 1600.06 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger south swamp at 3608.9 13.8692 7708.78 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger old town at 2580.44 73.9026 9100.18 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger portland at 6395.97 47.9365 13824.6 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger swanville at 5077.75 17.9006 12481.8 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger mountainville east at 7591.97 69.124 9159.27 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger barronfall at 7559.54 123.91 10351.8 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger North Race Track at 9351.58 35.5532 12649.7 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger KMUCMain-Mutants at 7059 573.5 11620 ori: 0 0 0
+2025-05-02T17:58:18Z [AreaTriggerEvents] Created trigger KMUCMainBottom-Mutants at 7249 224.8 11617 ori: 0 0 0
+2025-05-02T18:00:08Z [AreaTriggerEvents] Intruder triggered KMUC
+2025-05-02T18:00:08Z [AreaTriggerEvents] Intruder triggered KMUC2
+2025-05-02T18:12:42Z [AreaTriggerEvents] Intruder triggered KMUCMainBottom
+2025-05-02T18:12:43Z [AreaTriggerEvents] Intruder triggered KMUCMainBottom-Mutants
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger ArcticCrypt at 15621 231.4 14845 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger ArcticCrypt2 at 15640 258.6 14828 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger ArcticCrypt3 at 15642 208.9 14788 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger KMUCMain at 7059 573.5 11620 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger KMUCMainBottom at 7249 224.8 11617 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger TempleBridgeJump at 371 49.6 526 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger TempleOutsideTop1 at 739.5 38 483 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger TempleOutsideTop2 at 670 49.5 306 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger TempleWolfTrap at 591 14.3 390 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger TempleInside1 at 865 19.2 410 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger TempleInside2 at 828 38 484 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger TempleHammerTrigger at 366 54.3 868 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger TemplePartB1 at 405 130 1517 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger TemplePartB2 at 417 2.4 1591 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger Crater Island South East at 15291.40 27.45 1411.35 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger Crater Island South East at 14822.59 69.64 1903.43 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger Crater Island South at 14009 65.61 1298.55 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger Crater Island South West at 12978.61 21.11 1503.33 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger Crater Island South West at 12138.28 12.22 2183.42 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger Crater Island South West at 12473.17 31.96 3050.91 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger Crater Island Central 2 at 14398.11 87.88 2986.32 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger Crater Island Central 3 at 14143 7.58 3801.37 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger Crater Island North 1 at 15734.83 9.45 4389.35 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger Crater Island North 2 at 15692.18 22.85 4771.29 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger Crater Island North 3 at 15758.16 22.24 5104.53 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger Unnamed Island 1 at 14058.38 12.01 5355.95 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger Unnamed Island 2 at 13393.62 100.99 5759.29 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger Unnamed Island 3 at 12791.41 51.15 5647.28 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger Unnamed Island 4 at 13992.50 82.24 6177.50 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger Unnamed Island 5 at 13490.29 18.59 6624.02 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger Unnamed Island 6 at 12798.23 22.04 7373.24 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger Unnamed Island 7 at 11570.40 80.84 8106.52 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger Unnamed Island 8 at 10401.73 24.87 7908.41 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger Unnamed Island 9 at 9851.05 8.94 7989.76 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger Unnamed Island 10 at 9059.41 34.66 7796.29 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger Unnamed Island 11 at 7788.75 14.34 7783.41 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger Unnamed Island 12 at 9021.87 11.40 7236.39 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger Unnamed Island 13 at 10056 32.529617 6727.029785 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger Baby Rex Crater Military at 14150.97 137.48 2629.55 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger Big Rex Mine at 11122.23 40.97 2270.50 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger Big Rex Area 42 at 13399.66 12.95 9878.90 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger Paris Front Raptors at 3073.83 22.63 4023.27 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger Sunken City Raptors at 14135.31 2.51 6502.84 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger Unnamed Island 13 at 10056 32.529617 6727.029785 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger KMUC at 7256.43 601.582 11727.1 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger KMUC2 at 7180.9 587.929 11612.6 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger CampWolf at 5582.96 15.1452 1184.38 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger Road to Warren at 5606.62 36.1486 4942.04 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger RCFI Swamp East at 3912.59 13.5082 8986.44 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger OLD FIELD WEST MOUNTAIN at 5923.26 70.1457 6725.85 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger Sandy Bay at 5717.27 3.55051 8006.47 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger greenville at 4444.74 17.7635 1600.06 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger south swamp at 3608.9 13.8692 7708.78 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger old town at 2580.44 73.9026 9100.18 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger portland at 6395.97 47.9365 13824.6 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger swanville at 5077.75 17.9006 12481.8 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger mountainville east at 7591.97 69.124 9159.27 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger barronfall at 7559.54 123.91 10351.8 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger North Race Track at 9351.58 35.5532 12649.7 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger KMUCMain-Mutants at 7059 573.5 11620 ori: 0 0 0
+2025-05-02T18:39:20Z [AreaTriggerEvents] Created trigger KMUCMainBottom-Mutants at 7249 224.8 11617 ori: 0 0 0
+2025-05-02T19:54:28Z [AreaTriggerEvents] Sir Trippy triggered KMUC
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger ArcticCrypt at 15621 231.4 14845 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger ArcticCrypt2 at 15640 258.6 14828 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger ArcticCrypt3 at 15642 208.9 14788 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger KMUCMain at 7059 573.5 11620 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger KMUCMainBottom at 7249 224.8 11617 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger TempleBridgeJump at 371 49.6 526 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger TempleOutsideTop1 at 739.5 38 483 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger TempleOutsideTop2 at 670 49.5 306 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger TempleWolfTrap at 591 14.3 390 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger TempleInside1 at 865 19.2 410 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger TempleInside2 at 828 38 484 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger TempleHammerTrigger at 366 54.3 868 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger TemplePartB1 at 405 130 1517 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger TemplePartB2 at 417 2.4 1591 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger Crater Island South East at 15291.40 27.45 1411.35 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger Crater Island South East at 14822.59 69.64 1903.43 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger Crater Island South at 14009 65.61 1298.55 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger Crater Island South West at 12978.61 21.11 1503.33 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger Crater Island South West at 12138.28 12.22 2183.42 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger Crater Island South West at 12473.17 31.96 3050.91 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger Crater Island Central 2 at 14398.11 87.88 2986.32 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger Crater Island Central 3 at 14143 7.58 3801.37 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger Crater Island North 1 at 15734.83 9.45 4389.35 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger Crater Island North 2 at 15692.18 22.85 4771.29 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger Crater Island North 3 at 15758.16 22.24 5104.53 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger Unnamed Island 1 at 14058.38 12.01 5355.95 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger Unnamed Island 2 at 13393.62 100.99 5759.29 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger Unnamed Island 3 at 12791.41 51.15 5647.28 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger Unnamed Island 4 at 13992.50 82.24 6177.50 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger Unnamed Island 5 at 13490.29 18.59 6624.02 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger Unnamed Island 6 at 12798.23 22.04 7373.24 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger Unnamed Island 7 at 11570.40 80.84 8106.52 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger Unnamed Island 8 at 10401.73 24.87 7908.41 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger Unnamed Island 9 at 9851.05 8.94 7989.76 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger Unnamed Island 10 at 9059.41 34.66 7796.29 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger Unnamed Island 11 at 7788.75 14.34 7783.41 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger Unnamed Island 12 at 9021.87 11.40 7236.39 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger Unnamed Island 13 at 10056 32.529617 6727.029785 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger Baby Rex Crater Military at 14150.97 137.48 2629.55 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger Big Rex Mine at 11122.23 40.97 2270.50 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger Big Rex Area 42 at 13399.66 12.95 9878.90 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger Paris Front Raptors at 3073.83 22.63 4023.27 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger Sunken City Raptors at 14135.31 2.51 6502.84 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger Unnamed Island 13 at 10056 32.529617 6727.029785 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger KMUC at 7256.43 601.582 11727.1 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger KMUC2 at 7180.9 587.929 11612.6 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger CampWolf at 5582.96 15.1452 1184.38 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger Road to Warren at 5606.62 36.1486 4942.04 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger RCFI Swamp East at 3912.59 13.5082 8986.44 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger OLD FIELD WEST MOUNTAIN at 5923.26 70.1457 6725.85 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger Sandy Bay at 5717.27 3.55051 8006.47 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger greenville at 4444.74 17.7635 1600.06 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger south swamp at 3608.9 13.8692 7708.78 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger old town at 2580.44 73.9026 9100.18 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger portland at 6395.97 47.9365 13824.6 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger swanville at 5077.75 17.9006 12481.8 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger mountainville east at 7591.97 69.124 9159.27 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger barronfall at 7559.54 123.91 10351.8 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger North Race Track at 9351.58 35.5532 12649.7 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger KMUCMain-Mutants at 7059 573.5 11620 ori: 0 0 0
+2025-05-02T20:16:02Z [AreaTriggerEvents] Created trigger KMUCMainBottom-Mutants at 7249 224.8 11617 ori: 0 0 0
+2025-05-02T20:16:56Z [AreaTriggerEvents] OverKill triggered KMUC
+2025-05-02T20:26:40Z [AreaTriggerEvents] InsaneDragon triggered Sandy Bay
+2025-05-02T20:42:50Z [AreaTriggerEvents] Sir Trippy triggered KMUC2
+2025-05-02T20:56:21Z [AreaTriggerEvents] OverKill triggered KMUCMain
+2025-05-02T20:56:21Z [AreaTriggerEvents] OverKill triggered KMUCMain-Mutants
+2025-05-02T21:13:51Z [AreaTriggerEvents] Intruder triggered OLD FIELD WEST MOUNTAIN
+2025-05-02T22:08:59Z [AreaTriggerEvents] Sir Trippy triggered Unnamed Island 10
+2025-05-02T22:10:13Z [AreaTriggerEvents] Sir Trippy triggered Unnamed Island 9
+2025-05-02T22:10:34Z [AreaTriggerEvents] Sir Trippy triggered Unnamed Island 8
+2025-05-02T22:14:32Z [AreaTriggerEvents] Sir Trippy triggered Unnamed Island 7
+2025-05-02T22:15:34Z [AreaTriggerEvents] Sir Trippy triggered Unnamed Island 6
+2025-05-02T22:17:09Z [AreaTriggerEvents] Sir Trippy triggered Unnamed Island 5
+2025-05-02T22:19:41Z [AreaTriggerEvents] Sir Trippy triggered Unnamed Island 2
+2025-05-02T22:20:29Z [AreaTriggerEvents] Sir Trippy triggered Unnamed Island 1
