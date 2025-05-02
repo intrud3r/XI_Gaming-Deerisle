@@ -1,0 +1,10 @@
+{
+    "ZombieClassName": [
+        "ZmbM_HumanZombie",
+        "ZmbM_usSoldier_normal_Woodland",
+        "ZmbM_usSoldier_normal_Desert",
+        "ZmbM_SoldierNormal"
+    ],
+    "SpawnZombieOnPlayersDeath": 1,
+    "SpawnParasiteOnZombiesDeath": 1
+}
