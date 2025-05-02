@@ -46,6 +46,10 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="events.xml" type="events" />
 		<file name="cfgspawnabletypes.xml" type="spawnabletypes" />
 	</ce>
+	<ce folder="XI_Zombie">
+		<file name="types_zombie.xml" type="types" />
+		<file name="events_zombie.xml" type="events" />
+	</ce>
 	<ce folder="expansion_ce">
 	    <file name="expansion_events.xml" type="events" />
 		<file name="expansion_types.xml" type="types" />
