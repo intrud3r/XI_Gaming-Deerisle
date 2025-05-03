@@ -13,7 +13,7 @@
     "Radius": 1.0,
     "InfectedSpawnRadius": 50.0,
     "InfectedSpawnInterval": 250,
-    "ItemCount": 50,
+    "ItemCount": 10,
     "AirdropPlaneClassName": "",
     "DropZoneProximityDistance": 1500.0,
     "Containers": [
@@ -115,8 +115,8 @@
                 "ZmbF_MilkMaidOld_Green",
                 "ZmbF_MilkMaidOld_Grey"
             ],
-            "ItemCount": 30,
-            "InfectedCount": 25,
+            "ItemCount": 10,
+            "InfectedCount": 8,
             "SpawnInfectedForPlayerCalledDrops": 0,
             "Loot": [
                 {
@@ -2635,8 +2635,8 @@
                 "ZmbF_PatientOld",
                 "ZmbM_PatientSkinny"
             ],
-            "ItemCount": 25,
-            "InfectedCount": 15,
+            "ItemCount": 15,
+            "InfectedCount": 5,
             "SpawnInfectedForPlayerCalledDrops": 0,
             "Loot": [
                 {
@@ -3292,7 +3292,7 @@
                 "ZmbM_ConstrWorkerNormal_Grey",
                 "ZmbM_HeavyIndustryWorker"
             ],
-            "ItemCount": 50,
+            "ItemCount": 15,
             "InfectedCount": 10,
             "SpawnInfectedForPlayerCalledDrops": 0,
             "Loot": [
@@ -3700,8 +3700,8 @@
                 "ZmbM_PatrolNormal_Flat",
                 "ZmbM_PatrolNormal_Summer"
             ],
-            "ItemCount": 50,
-            "InfectedCount": 50,
+            "ItemCount": 15,
+            "InfectedCount": 8,
             "SpawnInfectedForPlayerCalledDrops": 0,
             "Loot": [
                 {
