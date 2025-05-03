@@ -73,9 +73,9 @@
         </children>
     </event>
 	<event name="VehicleVodnik">
-        <nominal>1</nominal>
+        <nominal>8</nominal>
         <min>1</min>
-        <max>2</max>
+        <max>10</max>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -86,7 +86,7 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="2" min="1" type="ExpansionVodnik"/>
+            <child lootmax="0" lootmin="0" max="10" min="1" type="ExpansionVodnik"/>
         </children>
     </event>
 	<event name="VehicleBus">
@@ -128,9 +128,9 @@
         </children>
     </event>
     <event name="VehicleLandRover">
-        <nominal>4</nominal>
+        <nominal>10</nominal>
         <min>1</min>
-        <max>5</max>
+        <max>10</max>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
