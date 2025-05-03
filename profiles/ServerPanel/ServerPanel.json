@@ -31,7 +31,16 @@
         
     ],
     "sServerTab1": [
-        "<h1>No Mods - this is a test server atm</h1>"       
+        "<h1>XI_Vanilla</h1>", 
+        "<p>Builder Items</p>",
+		"<p>Fireplace Indoor</p>",		
+        "<p>No Force Weapon Raise</p>",        
+        "<p>Terje Party Mod</p>",
+        "<p>Realistic Weapons</p>",
+		"<p>Realistic Suppressor</p>",		
+        "<p>ZVS Optics</p>",        
+        "<p>Mega Map Assets</p>"
+
                 
        		
     ],
