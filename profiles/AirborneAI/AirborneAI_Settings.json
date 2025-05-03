@@ -3,7 +3,7 @@
     "maxActiveAircraft": 5,
     "startDelayTime": 120,
     "timeBetweenPlaneSpawns": 300,
-    "staticPlaneSpawnPosition": "",
+    "staticPlaneSpawnPosition": "5521.61 74.0088 3458.5",
     "maxAmountAI": 5,
     "minAmountAI": 2,
     "aiLoadout": "EastLoadout",
